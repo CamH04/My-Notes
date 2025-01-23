@@ -1,0 +1,5 @@
+DECLARE 
+    my_tennent RECORD;
+Begin 
+
+    RAISE NOTICE ‘Hello % , %’  my_tennent.forename , my_tennent.surname

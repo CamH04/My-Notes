@@ -1,0 +1,9 @@
+DO $$
+<<anonymous_block_name>>
+    DECLARE ...
+    BEGIN ...
+    
+    EXCEPTION
+        WHEN no_data_found THEN
+            RAISE EXCEPTION 'Data Does Not Exist'; 
+END anonymous_block_name $$

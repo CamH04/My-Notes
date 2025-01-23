@@ -1,0 +1,15 @@
+//insted of cloning data or return just to appese the ownership rules
+//we can set the argument of the func to be a referance to the varible
+//and when the function is called we can pass a referance to the varible
+//insted of the raw data
+
+
+fn main(){
+    let s1 = String::from("Hello!");
+    print_string(&s1);
+    print_string(&s1);
+}
+
+fn print_string(s: &String){
+    println!("{s}");
+}

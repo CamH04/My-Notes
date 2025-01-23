@@ -1,0 +1,3899 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.63.7",
+	"files": [
+		{
+			"noteId": "root",
+			"notePath": [
+				"root"
+			],
+			"isClone": false,
+			"title": "root",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"format": "markdown",
+			"dirFileName": "root",
+			"noImport": false,
+			"attributes": [
+				{
+					"type": "label",
+					"name": "color",
+					"value": "#433348",
+					"isInheritable": false,
+					"position": 10
+				},
+				{
+					"type": "label",
+					"name": "mapType",
+					"value": "tree",
+					"isInheritable": false,
+					"position": 20
+				}
+			],
+			"attachments": [],
+			"children": [
+				{
+					"noteId": "UPtvybckErSC",
+					"notePath": [
+						"root",
+						"UPtvybckErSC"
+					],
+					"isClone": false,
+					"title": "Uni Comp Sci",
+					"notePosition": 50,
+					"prefix": "root",
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "root - Uni Comp Sci.md",
+					"dirFileName": "root - Uni Comp Sci",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "color",
+							"value": "#d600ff",
+							"isInheritable": true,
+							"position": 10
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "rU3Pc8IpFVFB",
+							"notePath": [
+								"root",
+								"UPtvybckErSC",
+								"rU3Pc8IpFVFB"
+							],
+							"isClone": false,
+							"title": "year 2",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "year 2",
+							"noImport": false,
+							"attributes": [
+								{
+									"type": "label",
+									"name": "color",
+									"value": "green",
+									"isInheritable": true,
+									"position": 10
+								}
+							],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "9q7LyHUjapxV",
+									"notePath": [
+										"root",
+										"UPtvybckErSC",
+										"rU3Pc8IpFVFB",
+										"9q7LyHUjapxV"
+									],
+									"isClone": false,
+									"title": "DONE sem 1",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dirFileName": "DONE sem 1",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "gDnzpWKffA3F",
+											"notePath": [
+												"root",
+												"UPtvybckErSC",
+												"rU3Pc8IpFVFB",
+												"9q7LyHUjapxV",
+												"gDnzpWKffA3F"
+											],
+											"isClone": false,
+											"title": "Videos Scripts",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dirFileName": "Videos Scripts",
+											"noImport": false,
+											"attributes": [],
+											"attachments": [],
+											"children": [
+												{
+													"noteId": "b9dq6cmYV0va",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gDnzpWKffA3F",
+														"b9dq6cmYV0va"
+													],
+													"isClone": false,
+													"title": "DONE Adv programming",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "DONE Adv programming.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "poHSAkkiqYbm",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gDnzpWKffA3F",
+														"poHSAkkiqYbm"
+													],
+													"isClone": false,
+													"title": "Devops",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Devops.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "jkfkv85Hw2WW",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gDnzpWKffA3F",
+														"jkfkv85Hw2WW"
+													],
+													"isClone": false,
+													"title": "DONE Databases",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "DONE Databases.md",
+													"dirFileName": "DONE Databases",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "WRV56UTePIwb",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"gDnzpWKffA3F",
+																"jkfkv85Hw2WW",
+																"WRV56UTePIwb"
+															],
+															"isClone": false,
+															"title": "SQL vs NoSQL",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "SQL vs NoSQL.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												}
+											]
+										},
+										{
+											"noteId": "m8Rip6ccco66",
+											"notePath": [
+												"root",
+												"UPtvybckErSC",
+												"rU3Pc8IpFVFB",
+												"9q7LyHUjapxV",
+												"m8Rip6ccco66"
+											],
+											"isClone": false,
+											"title": "DB Systems",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dirFileName": "DB Systems",
+											"noImport": false,
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#0e86d4",
+													"isInheritable": true,
+													"position": 10
+												}
+											],
+											"attachments": [],
+											"children": [
+												{
+													"noteId": "0mbaRehCwxAI",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"0mbaRehCwxAI"
+													],
+													"isClone": false,
+													"title": "Assignment 2",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Assignment 2.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "b7ZY7BLnJhwM",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"b7ZY7BLnJhwM"
+													],
+													"isClone": false,
+													"title": "Postgres Syntax",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Postgres Syntax.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "NlICuH7ElbK9",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"NlICuH7ElbK9"
+													],
+													"isClone": false,
+													"title": "Definitions ",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Definitions.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "BnYyn1DCqjDa",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"BnYyn1DCqjDa"
+													],
+													"isClone": false,
+													"title": "Intro/ Relational DB's week 1",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Intro Relational DB's week 1.md",
+													"dirFileName": "Intro Relational DB's week 1",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "ZISWyd3TtqAG",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"BnYyn1DCqjDa",
+																"ZISWyd3TtqAG"
+															],
+															"isClone": false,
+															"title": "Relational DB",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Relational DB.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "hs0Ox7eXurq0",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"BnYyn1DCqjDa",
+																"hs0Ox7eXurq0"
+															],
+															"isClone": false,
+															"title": "Some Postgress",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Some Postgress.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "WPxNLHIhK91Y",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"WPxNLHIhK91Y"
+													],
+													"isClone": false,
+													"title": "E-R Modelling week 2",
+													"notePosition": 50,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dirFileName": "E-R Modelling week 2",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "yYeq6dyM1R5U",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"WPxNLHIhK91Y",
+																"yYeq6dyM1R5U"
+															],
+															"isClone": false,
+															"title": "data Dictonarys",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "data Dictonarys.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "ZizEolAdFs5j",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"ZizEolAdFs5j"
+													],
+													"isClone": false,
+													"title": "Normalization week 3",
+													"notePosition": 60,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dirFileName": "Normalization week 3",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "KF6TA1DVgexo",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"ZizEolAdFs5j",
+																"KF6TA1DVgexo"
+															],
+															"isClone": false,
+															"title": "workshop notes",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "workshop notes.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "0AYM4FkQx31Z",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"ZizEolAdFs5j",
+																"0AYM4FkQx31Z"
+															],
+															"isClone": false,
+															"title": "Normalize Stages ",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Normalize Stages.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "Ebbia3NEavOG",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"ZizEolAdFs5j",
+																"Ebbia3NEavOG"
+															],
+															"isClone": false,
+															"title": "Functional dependencies",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Functional dependencies.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "B7UGDQIeTj9C",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"B7UGDQIeTj9C"
+													],
+													"isClone": false,
+													"title": "User and Data Management week 4",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dirFileName": "User and Data Management week 4",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "qUBBYlJsrmRy",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"B7UGDQIeTj9C",
+																"qUBBYlJsrmRy"
+															],
+															"isClone": false,
+															"title": "Auth (Security and Integrity)",
+															"notePosition": 0,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Auth (Security and Integrity).md",
+															"dirFileName": "Auth (Security and Integrity)",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [
+																{
+																	"attachmentId": "EJM7bT0xhgkQ",
+																	"title": "image.png",
+																	"role": "image",
+																	"mime": "image/jpg",
+																	"position": 10,
+																	"dataFileName": "Auth (Security and Integrity)_.jpg"
+																}
+															],
+															"children": [
+																{
+																	"noteId": "RaHDbbr61HWK",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"B7UGDQIeTj9C",
+																		"qUBBYlJsrmRy",
+																		"RaHDbbr61HWK"
+																	],
+																	"isClone": false,
+																	"title": "SQL for User Managment",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "text",
+																	"mime": "text/html",
+																	"format": "markdown",
+																	"dataFileName": "SQL for User Managment.md",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																}
+															]
+														},
+														{
+															"noteId": "AsMtBxtuqKNe",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"B7UGDQIeTj9C",
+																"AsMtBxtuqKNe"
+															],
+															"isClone": false,
+															"title": "Data Security",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": true,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Data Security.md",
+															"dirFileName": "Data Security",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "hOjh07s9AcVY",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"B7UGDQIeTj9C",
+																		"AsMtBxtuqKNe",
+																		"hOjh07s9AcVY"
+																	],
+																	"isClone": false,
+																	"title": "SQL for RBAC",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "text",
+																	"mime": "text/html",
+																	"format": "markdown",
+																	"dataFileName": "SQL for RBAC.md",
+																	"dirFileName": "SQL for RBAC",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": [],
+																	"children": [
+																		{
+																			"noteId": "TrlS0WbdWOI4",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"9q7LyHUjapxV",
+																				"m8Rip6ccco66",
+																				"B7UGDQIeTj9C",
+																				"AsMtBxtuqKNe",
+																				"hOjh07s9AcVY",
+																				"TrlS0WbdWOI4"
+																			],
+																			"isClone": false,
+																			"title": "Full EG",
+																			"notePosition": 10,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "code",
+																			"mime": "text/x-sql",
+																			"dataFileName": "Full EG.dat",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		}
+																	]
+																},
+																{
+																	"noteId": "KUuQVpdGUddD",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"B7UGDQIeTj9C",
+																		"AsMtBxtuqKNe",
+																		"KUuQVpdGUddD"
+																	],
+																	"isClone": false,
+																	"title": "Data Integrity",
+																	"notePosition": 20,
+																	"prefix": null,
+																	"isExpanded": true,
+																	"type": "text",
+																	"mime": "text/html",
+																	"format": "markdown",
+																	"dataFileName": "Data Integrity.md",
+																	"dirFileName": "Data Integrity",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": [],
+																	"children": [
+																		{
+																			"noteId": "hGc87BEee0WI",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"9q7LyHUjapxV",
+																				"m8Rip6ccco66",
+																				"B7UGDQIeTj9C",
+																				"AsMtBxtuqKNe",
+																				"KUuQVpdGUddD",
+																				"hGc87BEee0WI"
+																			],
+																			"isClone": false,
+																			"title": "SQL For Data Integrety",
+																			"notePosition": 10,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "text",
+																			"mime": "text/html",
+																			"format": "markdown",
+																			"dataFileName": "SQL For Data Integrety.md",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"noteId": "wBKK3y13yrMW",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"wBKK3y13yrMW"
+													],
+													"isClone": false,
+													"title": "Data Security Week 5",
+													"notePosition": 90,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Data Security Week 5.md",
+													"dirFileName": "Data Security Week 5",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "GuRDaCloULHw",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"wBKK3y13yrMW",
+																"GuRDaCloULHw"
+															],
+															"isClone": false,
+															"title": "CIA Model",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "CIA Model.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "B9SvLehZl0Y7",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"wBKK3y13yrMW",
+																"B9SvLehZl0Y7"
+															],
+															"isClone": false,
+															"title": "Paramatised Views",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Paramatised Views.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "08fe5dYn9Zge",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"wBKK3y13yrMW",
+																"08fe5dYn9Zge"
+															],
+															"isClone": false,
+															"title": "Row Level Security",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Row Level Security.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "iMDun8PdEhLt",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"iMDun8PdEhLt"
+													],
+													"isClone": false,
+													"title": "PLpgSQL week 6 7 8",
+													"notePosition": 100,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dirFileName": "PLpgSQL week 6 7 8",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "cqR7KuVioeum",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"iMDun8PdEhLt",
+																"cqR7KuVioeum"
+															],
+															"isClone": false,
+															"title": "Sequences",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Sequences.md",
+															"dirFileName": "Sequences",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "7159KYDTHyjX",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"cqR7KuVioeum",
+																		"7159KYDTHyjX"
+																	],
+																	"isClone": false,
+																	"title": "CREATE Sequences In SQL",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-sql",
+																	"dataFileName": "CREATE Sequences In SQL.dat",
+																	"dirFileName": "CREATE Sequences In SQL",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": [],
+																	"children": [
+																		{
+																			"noteId": "ZuzB6mOeDdmn",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"9q7LyHUjapxV",
+																				"m8Rip6ccco66",
+																				"iMDun8PdEhLt",
+																				"cqR7KuVioeum",
+																				"7159KYDTHyjX",
+																				"ZuzB6mOeDdmn"
+																			],
+																			"isClone": false,
+																			"title": "Call a sequence",
+																			"notePosition": 10,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "code",
+																			"mime": "text/x-sql",
+																			"dataFileName": "Call a sequence.dat",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"noteId": "4dUNFclyQvAi",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"iMDun8PdEhLt",
+																"4dUNFclyQvAi"
+															],
+															"isClone": false,
+															"title": "Anaon Block In SQL",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Anaon Block In SQL.md",
+															"dirFileName": "Anaon Block In SQL",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "lWKotR3qX0F1",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"4dUNFclyQvAi",
+																		"lWKotR3qX0F1"
+																	],
+																	"isClone": false,
+																	"title": "Using BEGIN and DECLARE",
+																	"notePosition": 20,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-sql",
+																	"dataFileName": "Using BEGIN and DECLARE.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																},
+																{
+																	"noteId": "Dvlj4FvG4jur",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"4dUNFclyQvAi",
+																		"Dvlj4FvG4jur"
+																	],
+																	"isClone": false,
+																	"title": "Using Exception",
+																	"notePosition": 30,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-sql",
+																	"dataFileName": "Using Exception.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																}
+															]
+														},
+														{
+															"noteId": "eHL4SYAphszf",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"iMDun8PdEhLt",
+																"eHL4SYAphszf"
+															],
+															"isClone": false,
+															"title": "Procedures In SQL",
+															"notePosition": 50,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Procedures In SQL.md",
+															"dirFileName": "Procedures In SQL",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "FLzdOtOSt45l",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"eHL4SYAphszf",
+																		"FLzdOtOSt45l"
+																	],
+																	"isClone": false,
+																	"title": "Create a Procedure",
+																	"notePosition": 0,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-sql",
+																	"dataFileName": "Create a Procedure.dat",
+																	"dirFileName": "Create a Procedure",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": [],
+																	"children": [
+																		{
+																			"noteId": "tZwGETUyjYzD",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"9q7LyHUjapxV",
+																				"m8Rip6ccco66",
+																				"iMDun8PdEhLt",
+																				"eHL4SYAphszf",
+																				"FLzdOtOSt45l",
+																				"tZwGETUyjYzD"
+																			],
+																			"isClone": false,
+																			"title": "Call a Procedure",
+																			"notePosition": 10,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "code",
+																			"mime": "text/x-sql",
+																			"dataFileName": "Call a Procedure.dat",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"noteId": "8dZQymyBK6tW",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"iMDun8PdEhLt",
+																"8dZQymyBK6tW"
+															],
+															"isClone": false,
+															"title": "Record Data Type",
+															"notePosition": 60,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Record Data Type.md",
+															"dirFileName": "Record Data Type",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "eAXUF5fIOYm9",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"8dZQymyBK6tW",
+																		"eAXUF5fIOYm9"
+																	],
+																	"isClone": false,
+																	"title": "Record Data Type Code",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/plain",
+																	"dataFileName": "Record Data Type Code.txt",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																}
+															]
+														},
+														{
+															"noteId": "J6OwFbSK8Bd3",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"iMDun8PdEhLt",
+																"J6OwFbSK8Bd3"
+															],
+															"isClone": false,
+															"title": "Stored Functions vs Procedures",
+															"notePosition": 70,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Stored Functions vs Procedures.md",
+															"dirFileName": "Stored Functions vs Procedures",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "Gvr6vHkscBv4",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"J6OwFbSK8Bd3",
+																		"Gvr6vHkscBv4"
+																	],
+																	"isClone": false,
+																	"title": "Sored Function Postgresql",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-sql",
+																	"dataFileName": "Sored Function Postgresql.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																}
+															]
+														},
+														{
+															"noteId": "ZM9YDQUSwhsk",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"iMDun8PdEhLt",
+																"ZM9YDQUSwhsk"
+															],
+															"isClone": false,
+															"title": " Cursors",
+															"notePosition": 80,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Cursors.md",
+															"dirFileName": " Cursors",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "sOKY9WX0g4RS",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"ZM9YDQUSwhsk",
+																		"sOKY9WX0g4RS"
+																	],
+																	"isClone": false,
+																	"title": "Cursors In Postgresql",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-sql",
+																	"dataFileName": "Cursors In Postgresql.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																}
+															]
+														},
+														{
+															"noteId": "JTQrjAeXwJjv",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"m8Rip6ccco66",
+																"iMDun8PdEhLt",
+																"JTQrjAeXwJjv"
+															],
+															"isClone": false,
+															"title": "Triggers",
+															"notePosition": 90,
+															"prefix": null,
+															"isExpanded": true,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dirFileName": "Triggers",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "z9AN94r0vbun",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"m8Rip6ccco66",
+																		"iMDun8PdEhLt",
+																		"JTQrjAeXwJjv",
+																		"z9AN94r0vbun"
+																	],
+																	"isClone": false,
+																	"title": "Logging Trigger Code",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-sql",
+																	"dataFileName": "Logging Trigger Code.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																}
+															]
+														}
+													]
+												},
+												{
+													"noteId": "CN8vXDxLo72R",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"CN8vXDxLo72R"
+													],
+													"isClone": false,
+													"title": "DB Performance week 9",
+													"notePosition": 120,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "DB Performance week 9.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "YP5RUu62YYZ8",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"YP5RUu62YYZ8"
+													],
+													"isClone": false,
+													"title": "NoSQL DB week 10",
+													"notePosition": 130,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "NoSQL DB week 10.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "wIGkX6FCKYw0",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"m8Rip6ccco66",
+														"wIGkX6FCKYw0"
+													],
+													"isClone": false,
+													"title": "Data Analytics week 11",
+													"notePosition": 140,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Data Analytics week 11.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												}
+											]
+										},
+										{
+											"noteId": "gr3ZhY6yzCX1",
+											"notePath": [
+												"root",
+												"UPtvybckErSC",
+												"rU3Pc8IpFVFB",
+												"9q7LyHUjapxV",
+												"gr3ZhY6yzCX1"
+											],
+											"isClone": false,
+											"title": "Devops",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dirFileName": "Devops",
+											"noImport": false,
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#719f67",
+													"isInheritable": true,
+													"position": 10
+												}
+											],
+											"attachments": [],
+											"children": [
+												{
+													"noteId": "KJNTWNRoNVbN",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gr3ZhY6yzCX1",
+														"KJNTWNRoNVbN"
+													],
+													"isClone": false,
+													"title": "Devops Assignment 1",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Devops Assignment 1.md",
+													"dirFileName": "Devops Assignment 1",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "5Y5frlddsB6o",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"gr3ZhY6yzCX1",
+																"KJNTWNRoNVbN",
+																"5Y5frlddsB6o"
+															],
+															"isClone": false,
+															"title": "Diagrams",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dirFileName": "Diagrams",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "N2YceJFQA9MX",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"gr3ZhY6yzCX1",
+																		"KJNTWNRoNVbN",
+																		"5Y5frlddsB6o",
+																		"N2YceJFQA9MX"
+																	],
+																	"isClone": false,
+																	"title": "A1",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "canvas",
+																	"mime": "application/json",
+																	"dataFileName": "A1.json",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": [
+																		{
+																			"attachmentId": "1UAGryfq2wUS",
+																			"title": "canvas-export.svg",
+																			"role": "image",
+																			"mime": "image/svg+xml",
+																			"position": 0,
+																			"dataFileName": "A1_canvas-export.svg"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"noteId": "nxd1OjogZSW6",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gr3ZhY6yzCX1",
+														"nxd1OjogZSW6"
+													],
+													"isClone": false,
+													"title": "Git Basics - Week 3",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Git Basics - Week 3.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "GFqqlAYTtLYN",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gr3ZhY6yzCX1",
+														"GFqqlAYTtLYN"
+													],
+													"isClone": false,
+													"title": "More Git Stuff - Week 4",
+													"notePosition": 50,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "More Git Stuff - Week 4.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "8ObocTbRMHEE",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gr3ZhY6yzCX1",
+														"8ObocTbRMHEE"
+													],
+													"isClone": false,
+													"title": "Prototyping - Week 5",
+													"notePosition": 60,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Prototyping - Week 5.md",
+													"dirFileName": "Prototyping - Week 5",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "0zPNK4HMZ2xp",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"gr3ZhY6yzCX1",
+																"8ObocTbRMHEE",
+																"0zPNK4HMZ2xp"
+															],
+															"isClone": false,
+															"title": "Types of prototypes",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Types of prototypes.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "l6SAsoJwdZQu",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"gr3ZhY6yzCX1",
+																"8ObocTbRMHEE",
+																"l6SAsoJwdZQu"
+															],
+															"isClone": false,
+															"title": "Stages of prototypes",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Stages of prototypes.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "7yxDaymJwJWa",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"gr3ZhY6yzCX1",
+														"7yxDaymJwJWa"
+													],
+													"isClone": false,
+													"title": "Api's - week 6/7",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Api's - week 67.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												}
+											]
+										},
+										{
+											"noteId": "7qSa6EAXIr0s",
+											"notePath": [
+												"root",
+												"UPtvybckErSC",
+												"rU3Pc8IpFVFB",
+												"9q7LyHUjapxV",
+												"7qSa6EAXIr0s"
+											],
+											"isClone": false,
+											"title": "Advanced Programming",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dirFileName": "Advanced Programming",
+											"noImport": false,
+											"attributes": [
+												{
+													"type": "label",
+													"name": "color",
+													"value": "#36b5ac",
+													"isInheritable": true,
+													"position": 10
+												}
+											],
+											"attachments": [],
+											"children": [
+												{
+													"noteId": "ysGWKlcZSQQK",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"ysGWKlcZSQQK"
+													],
+													"isClone": false,
+													"title": "Prog Assignment 1",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Prog Assignment 1.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "uk2B0GYjMGiR",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"uk2B0GYjMGiR"
+													],
+													"isClone": false,
+													"title": "Week 1 Big-O",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Week 1 Big-O.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "pCKG8LplTGwS",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"pCKG8LplTGwS"
+													],
+													"isClone": false,
+													"title": "Week 2 Sorting",
+													"notePosition": 30,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Week 2 Sorting.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "fXKzi49j8xBa",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"fXKzi49j8xBa"
+													],
+													"isClone": false,
+													"title": "Week 3 OOP",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Week 3 OOP.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "AJxA55lMXz6O",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"AJxA55lMXz6O"
+													],
+													"isClone": false,
+													"title": "Week 4 Relations",
+													"notePosition": 50,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Week 4 Relations.md",
+													"dirFileName": "Week 4 Relations",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [
+														{
+															"attachmentId": "u1nHBdxssLd3",
+															"title": "image.png",
+															"role": "image",
+															"mime": "image/jpg",
+															"position": 10,
+															"dataFileName": "Week 4 Relations_image.png"
+														}
+													],
+													"children": [
+														{
+															"noteId": "8fo5upkDqlip",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"AJxA55lMXz6O",
+																"8fo5upkDqlip"
+															],
+															"isClone": false,
+															"title": "Diagrams",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": true,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Diagrams.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [
+																{
+																	"attachmentId": "dTI36i9FLCrU",
+																	"title": "image.png",
+																	"role": "image",
+																	"mime": "image/jpg",
+																	"position": 10,
+																	"dataFileName": "Diagrams_image.png"
+																}
+															]
+														}
+													]
+												},
+												{
+													"noteId": "BbFJyEHJY5m1",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"BbFJyEHJY5m1"
+													],
+													"isClone": false,
+													"title": "Week 5 Polymorphism & Interfaces",
+													"notePosition": 60,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dirFileName": "Week 5 Polymorphism & Interfaces",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "ZA80x82hqhPz",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"BbFJyEHJY5m1",
+																"ZA80x82hqhPz"
+															],
+															"isClone": false,
+															"title": "Abstract vs Concrete",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Abstract vs Concrete.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "vRgymnvUmcbU",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"BbFJyEHJY5m1",
+																"vRgymnvUmcbU"
+															],
+															"isClone": false,
+															"title": "Polymorphisim",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Polymorphisim.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "NwXA4LAUqu9f",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"BbFJyEHJY5m1",
+																"NwXA4LAUqu9f"
+															],
+															"isClone": false,
+															"title": "Interfaces",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Interfaces.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "kP2HMWugHlcI",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"kP2HMWugHlcI"
+													],
+													"isClone": false,
+													"title": "Blazor Stuff",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dirFileName": "Blazor Stuff",
+													"noImport": false,
+													"attributes": [
+														{
+															"type": "label",
+															"name": "color",
+															"value": "#d600ff",
+															"isInheritable": true,
+															"position": 10
+														}
+													],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "Ij9lULF88t6P",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"kP2HMWugHlcI",
+																"Ij9lULF88t6P"
+															],
+															"isClone": false,
+															"title": "Services",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Services.md",
+															"dirFileName": "Services",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [],
+															"children": [
+																{
+																	"noteId": "jX0JNh2Dbf1y",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"7qSa6EAXIr0s",
+																		"kP2HMWugHlcI",
+																		"Ij9lULF88t6P",
+																		"jX0JNh2Dbf1y"
+																	],
+																	"isClone": false,
+																	"title": "Creating A Service",
+																	"notePosition": 10,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-csharp",
+																	"dataFileName": "Creating A Service.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																},
+																{
+																	"noteId": "cWoonnjDZrzV",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"7qSa6EAXIr0s",
+																		"kP2HMWugHlcI",
+																		"Ij9lULF88t6P",
+																		"cWoonnjDZrzV"
+																	],
+																	"isClone": false,
+																	"title": "Registering A Service To DI Container ",
+																	"notePosition": 20,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-csharp",
+																	"dataFileName": "Registering A Service To DI Co.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																},
+																{
+																	"noteId": "5sPLNvgSN76y",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"9q7LyHUjapxV",
+																		"7qSa6EAXIr0s",
+																		"kP2HMWugHlcI",
+																		"Ij9lULF88t6P",
+																		"5sPLNvgSN76y"
+																	],
+																	"isClone": false,
+																	"title": "Injecting a Service Into A Component",
+																	"notePosition": 30,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "code",
+																	"mime": "text/x-csharp",
+																	"dataFileName": "Injecting a Service Into A Com.dat",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": []
+																}
+															]
+														},
+														{
+															"noteId": "DqpsHfCGVDoP",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"kP2HMWugHlcI",
+																"DqpsHfCGVDoP"
+															],
+															"isClone": false,
+															"title": "List Views - Week 8",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "List Views - Week 8.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "mh8yThlShQ80",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"9q7LyHUjapxV",
+														"7qSa6EAXIr0s",
+														"mh8yThlShQ80"
+													],
+													"isClone": false,
+													"title": "Testing",
+													"notePosition": 80,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "Testing.md",
+													"dirFileName": "Testing",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "WnHBWxz6E2DV",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"mh8yThlShQ80",
+																"WnHBWxz6E2DV"
+															],
+															"isClone": false,
+															"title": "Assignment tests to do",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Assignment tests to do.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "HEIUY5IBjBYj",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"mh8yThlShQ80",
+																"HEIUY5IBjBYj"
+															],
+															"isClone": false,
+															"title": "Unit testing for assignment",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "Unit testing for assignment.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "R6BhkPZ8y8XZ",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"9q7LyHUjapxV",
+																"7qSa6EAXIr0s",
+																"mh8yThlShQ80",
+																"R6BhkPZ8y8XZ"
+															],
+															"isClone": false,
+															"title": "I FUCKING HATE WINDOWS IS GONNA MAKE ME HAVE A SHOOTOUT WITH A POLICE OFFICER",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "markdown",
+															"dataFileName": "I FUCKING HATE WINDOWS IS GONN.md",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"noteId": "W7YLK6IjyhpV",
+									"notePath": [
+										"root",
+										"UPtvybckErSC",
+										"rU3Pc8IpFVFB",
+										"W7YLK6IjyhpV"
+									],
+									"isClone": false,
+									"title": "sem 2",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "sem 2.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						},
+						{
+							"noteId": "3PV4G3MsM7xm",
+							"notePath": [
+								"root",
+								"UPtvybckErSC",
+								"3PV4G3MsM7xm"
+							],
+							"isClone": false,
+							"title": "Events",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "Events",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "XaPeD6JJdBwY",
+									"notePath": [
+										"root",
+										"UPtvybckErSC",
+										"3PV4G3MsM7xm",
+										"XaPeD6JJdBwY"
+									],
+									"isClone": false,
+									"title": "CTF 31/10/2024",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "CTF 31102024.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "ib4IhNmNuFTr",
+					"notePath": [
+						"root",
+						"ib4IhNmNuFTr"
+					],
+					"isClone": false,
+					"title": "root - PASS",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "root - PASS",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-pencil",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "color",
+							"value": "orange",
+							"isInheritable": true,
+							"position": 20
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "lWEEi1zg0Hk1",
+							"notePath": [
+								"root",
+								"ib4IhNmNuFTr",
+								"lWEEi1zg0Hk1"
+							],
+							"isClone": false,
+							"title": "NEXT SESSSION",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "NEXT SESSSION.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "XTSAudVg6mb5",
+							"notePath": [
+								"root",
+								"ib4IhNmNuFTr",
+								"XTSAudVg6mb5"
+							],
+							"isClone": false,
+							"title": "activity ideas",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "activity ideas.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "4yl2QzkVM1kQ",
+							"notePath": [
+								"root",
+								"ib4IhNmNuFTr",
+								"4yl2QzkVM1kQ"
+							],
+							"isClone": false,
+							"title": "Icebreakers",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Icebreakers.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "oCzWbi77eSbe",
+							"notePath": [
+								"root",
+								"ib4IhNmNuFTr",
+								"oCzWbi77eSbe"
+							],
+							"isClone": false,
+							"title": "Coding Problems",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "Coding Problems",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "sLIU3MseQGBL",
+									"notePath": [
+										"root",
+										"ib4IhNmNuFTr",
+										"oCzWbi77eSbe",
+										"sLIU3MseQGBL"
+									],
+									"isClone": false,
+									"title": "Easy",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Easy.md",
+									"noImport": false,
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "green",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"attachments": []
+								},
+								{
+									"noteId": "4Txsiu6zPGAH",
+									"notePath": [
+										"root",
+										"ib4IhNmNuFTr",
+										"oCzWbi77eSbe",
+										"4Txsiu6zPGAH"
+									],
+									"isClone": false,
+									"title": "Meduim",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Meduim.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "Ebk1l3T5cbGW",
+									"notePath": [
+										"root",
+										"ib4IhNmNuFTr",
+										"oCzWbi77eSbe",
+										"Ebk1l3T5cbGW"
+									],
+									"isClone": false,
+									"title": "Hard",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Hard.md",
+									"noImport": false,
+									"attributes": [
+										{
+											"type": "label",
+											"name": "color",
+											"value": "red",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"attachments": []
+								}
+							]
+						},
+						{
+							"noteId": "p2IlRi25LWhL",
+							"notePath": [
+								"root",
+								"ib4IhNmNuFTr",
+								"p2IlRi25LWhL"
+							],
+							"isClone": false,
+							"title": "Videos To Make",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Videos To Make.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "riXB9l072vmF",
+							"notePath": [
+								"root",
+								"ib4IhNmNuFTr",
+								"riXB9l072vmF"
+							],
+							"isClone": false,
+							"title": "Blank Page For Drawing",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "relationMap",
+							"mime": "application/json",
+							"dataFileName": "Blank Page For Drawing.json",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						}
+					]
+				},
+				{
+					"noteId": "idybQNpTKOkW",
+					"notePath": [
+						"root",
+						"idybQNpTKOkW"
+					],
+					"isClone": false,
+					"title": "Writings",
+					"notePosition": 70,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "Writings",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-book-open",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "color",
+							"value": "#f99bff",
+							"isInheritable": true,
+							"position": 20
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "Pihds9VnMDCL",
+							"notePath": [
+								"root",
+								"idybQNpTKOkW",
+								"Pihds9VnMDCL"
+							],
+							"isClone": false,
+							"title": "Non Comp Sci",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "Non Comp Sci",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "Sqv1tutz3gyP",
+									"notePath": [
+										"root",
+										"idybQNpTKOkW",
+										"Pihds9VnMDCL",
+										"Sqv1tutz3gyP"
+									],
+									"isClone": false,
+									"title": "Poems",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dirFileName": "Poems",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "9WKFrTJhBp6M",
+											"notePath": [
+												"root",
+												"idybQNpTKOkW",
+												"Pihds9VnMDCL",
+												"Sqv1tutz3gyP",
+												"9WKFrTJhBp6M"
+											],
+											"isClone": false,
+											"title": "Wires",
+											"notePosition": 0,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Wires.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "nAYzjLPUfXhl",
+											"notePath": [
+												"root",
+												"idybQNpTKOkW",
+												"Pihds9VnMDCL",
+												"Sqv1tutz3gyP",
+												"nAYzjLPUfXhl"
+											],
+											"isClone": false,
+											"title": "a very gallant gentleman",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "a very gallant gentleman.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										}
+									]
+								}
+							]
+						},
+						{
+							"noteId": "pURygPMvEMOo",
+							"notePath": [
+								"root",
+								"idybQNpTKOkW",
+								"pURygPMvEMOo"
+							],
+							"isClone": false,
+							"title": "Articles",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "Articles",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "zpSh9KunWRMt",
+									"notePath": [
+										"root",
+										"idybQNpTKOkW",
+										"pURygPMvEMOo",
+										"zpSh9KunWRMt"
+									],
+									"isClone": false,
+									"title": "General ",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "General.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "WYnDzpct1pWh",
+									"notePath": [
+										"root",
+										"idybQNpTKOkW",
+										"pURygPMvEMOo",
+										"WYnDzpct1pWh"
+									],
+									"isClone": false,
+									"title": "AlbaOS",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "AlbaOS.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "aCIFUNtCMkGh",
+					"notePath": [
+						"root",
+						"aCIFUNtCMkGh"
+					],
+					"isClone": false,
+					"title": "Modern Embedded System Programming Course",
+					"notePosition": 110,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "Modern Embedded System Program.md",
+					"dirFileName": "Modern Embedded System Programming Course",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-expand-horizontal",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "color",
+							"value": "#6293c9",
+							"isInheritable": true,
+							"position": 20
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "2BHLyBqSPOrI",
+							"notePath": [
+								"root",
+								"aCIFUNtCMkGh",
+								"2BHLyBqSPOrI"
+							],
+							"isClone": false,
+							"title": "Intro",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Intro.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "3G2p7dNrSQc2",
+							"notePath": [
+								"root",
+								"aCIFUNtCMkGh",
+								"3G2p7dNrSQc2"
+							],
+							"isClone": false,
+							"title": "How computers Count",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "How computers Count.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						}
+					]
+				},
+				{
+					"noteId": "T6duYbKOOUfx",
+					"notePath": [
+						"root",
+						"T6duYbKOOUfx"
+					],
+					"isClone": false,
+					"title": "Low Level Programming In C : CSE325",
+					"notePosition": 120,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "Low Level Programming In C  CSE325",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-expand-vertical",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "color",
+							"value": "#f27596",
+							"isInheritable": true,
+							"position": 20
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "8laL0P9Fgnhr",
+							"notePath": [
+								"root",
+								"T6duYbKOOUfx",
+								"8laL0P9Fgnhr"
+							],
+							"isClone": false,
+							"title": "C vs high level",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "C vs high level.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "GKCm50UZNSgI",
+							"notePath": [
+								"root",
+								"T6duYbKOOUfx",
+								"GKCm50UZNSgI"
+							],
+							"isClone": false,
+							"title": "Memory And Pointers",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Memory And Pointers.md",
+							"dirFileName": "Memory And Pointers",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "fCT7V4fekzf5",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"GKCm50UZNSgI",
+										"fCT7V4fekzf5"
+									],
+									"isClone": false,
+									"title": "2's Compliment",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "2's Compliment.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "UuyUNUYjZbga",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"GKCm50UZNSgI",
+										"UuyUNUYjZbga"
+									],
+									"isClone": false,
+									"title": "Memory Data Types (Buffer Overflow EG)",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Memory Data Types (Buffer Over.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						},
+						{
+							"noteId": "wlqrscKensRI",
+							"notePath": [
+								"root",
+								"T6duYbKOOUfx",
+								"wlqrscKensRI"
+							],
+							"isClone": false,
+							"title": "Bitwise Ops",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Bitwise Ops.md",
+							"dirFileName": "Bitwise Ops",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "Iy35YECXmzMl",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"wlqrscKensRI",
+										"Iy35YECXmzMl"
+									],
+									"isClone": false,
+									"title": "AND EG",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "AND EG.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "TpnuglKHhkmM",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"wlqrscKensRI",
+										"TpnuglKHhkmM"
+									],
+									"isClone": false,
+									"title": "NOT / Compliment EG",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "NOT  Compliment EG.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "5Y30782HuMwK",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"wlqrscKensRI",
+										"5Y30782HuMwK"
+									],
+									"isClone": false,
+									"title": "XOR EG",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "XOR EG.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "ZpHHelEOAYA8",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"wlqrscKensRI",
+										"ZpHHelEOAYA8"
+									],
+									"isClone": false,
+									"title": "Shifting EG",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Shifting EG.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						},
+						{
+							"noteId": "jAMqRbv91T3P",
+							"notePath": [
+								"root",
+								"T6duYbKOOUfx",
+								"jAMqRbv91T3P"
+							],
+							"isClone": false,
+							"title": "Schematics And Datasheets",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "Schematics And Datasheets",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "Kyhc5WPWis3B",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"jAMqRbv91T3P",
+										"Kyhc5WPWis3B"
+									],
+									"isClone": false,
+									"title": "Definitions",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Definitions.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "BdkhyGkNVhNx",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"jAMqRbv91T3P",
+										"BdkhyGkNVhNx"
+									],
+									"isClone": false,
+									"title": "Reading Schematics",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dirFileName": "Reading Schematics",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "IUEAxR1HhsUM",
+											"notePath": [
+												"root",
+												"T6duYbKOOUfx",
+												"jAMqRbv91T3P",
+												"BdkhyGkNVhNx",
+												"IUEAxR1HhsUM"
+											],
+											"isClone": false,
+											"title": "Integrated Circuits (Schematics)",
+											"notePosition": 0,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Integrated Circuits (Schematic.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "YnFQhQcP3r2Z",
+											"notePath": [
+												"root",
+												"T6duYbKOOUfx",
+												"jAMqRbv91T3P",
+												"BdkhyGkNVhNx",
+												"YnFQhQcP3r2Z"
+											],
+											"isClone": false,
+											"title": "Wire, Busses , Signals (Schematics)",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Wire, Busses , Signals (Schema.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										}
+									]
+								},
+								{
+									"noteId": "xhAnYW16ADxD",
+									"notePath": [
+										"root",
+										"T6duYbKOOUfx",
+										"jAMqRbv91T3P",
+										"xhAnYW16ADxD"
+									],
+									"isClone": false,
+									"title": "Reading Datasheet",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Reading Datasheet.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "De2x4HJEGq10",
+					"notePath": [
+						"root",
+						"De2x4HJEGq10"
+					],
+					"isClone": false,
+					"title": "Rust",
+					"notePosition": 130,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "Rust",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "color",
+							"value": " #C45508",
+							"isInheritable": true,
+							"position": 10
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "A9iwFn4PycXH",
+							"notePath": [
+								"root",
+								"De2x4HJEGq10",
+								"A9iwFn4PycXH"
+							],
+							"isClone": false,
+							"title": "Memory Managment In Rust",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Memory Managment In Rust.md",
+							"dirFileName": "Memory Managment In Rust",
+							"noImport": false,
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "4cOtFcwSaKxZ",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vN4b4DjVoN3M",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "jm7dBznFDamM",
+									"isInheritable": false,
+									"position": 40
+								}
+							],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "4cOtFcwSaKxZ",
+									"notePath": [
+										"root",
+										"De2x4HJEGq10",
+										"A9iwFn4PycXH",
+										"4cOtFcwSaKxZ"
+									],
+									"isClone": false,
+									"title": "Ownership",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Ownership.md",
+									"dirFileName": "Ownership",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "lZctEptHep0t",
+											"notePath": [
+												"root",
+												"De2x4HJEGq10",
+												"A9iwFn4PycXH",
+												"4cOtFcwSaKxZ",
+												"lZctEptHep0t"
+											],
+											"isClone": false,
+											"title": "The best way to do things knowing these rules",
+											"notePosition": 0,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "code",
+											"mime": "text/plain",
+											"dataFileName": "The best way to do things know.txt",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										}
+									]
+								},
+								{
+									"noteId": "vN4b4DjVoN3M",
+									"notePath": [
+										"root",
+										"De2x4HJEGq10",
+										"A9iwFn4PycXH",
+										"vN4b4DjVoN3M"
+									],
+									"isClone": false,
+									"title": "Borrowing",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Borrowing.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "jm7dBznFDamM",
+									"notePath": [
+										"root",
+										"De2x4HJEGq10",
+										"A9iwFn4PycXH",
+										"jm7dBznFDamM"
+									],
+									"isClone": false,
+									"title": "Lifetimes",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Lifetimes.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "9wpDmmQzP7Bw",
+					"notePath": [
+						"root",
+						"9wpDmmQzP7Bw"
+					],
+					"isClone": false,
+					"title": "Rust OsDev",
+					"notePosition": 140,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "Rust OsDev",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "color",
+							"value": " #C45508",
+							"isInheritable": true,
+							"position": 10
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "SHqZbLIGXAIC",
+							"notePath": [
+								"root",
+								"9wpDmmQzP7Bw",
+								"SHqZbLIGXAIC"
+							],
+							"isClone": false,
+							"title": "Freestanding rust binary",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Freestanding rust binary.md",
+							"dirFileName": "Freestanding rust binary",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "PfWUPnPpBioA",
+									"notePath": [
+										"root",
+										"9wpDmmQzP7Bw",
+										"SHqZbLIGXAIC",
+										"PfWUPnPpBioA"
+									],
+									"isClone": false,
+									"title": "Build Targets",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Build Targets.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						},
+						{
+							"noteId": "GwSX9jOx1aMo",
+							"notePath": [
+								"root",
+								"9wpDmmQzP7Bw",
+								"GwSX9jOx1aMo"
+							],
+							"isClone": false,
+							"title": "Vga Writing",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Vga Writing.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						}
+					]
+				},
+				{
+					"noteId": "MvY1VI0c4Uc4",
+					"notePath": [
+						"root",
+						"MvY1VI0c4Uc4"
+					],
+					"isClone": false,
+					"title": "OsDev",
+					"notePosition": 160,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "OsDev",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "color",
+							"value": " #fa2583",
+							"isInheritable": true,
+							"position": 10
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "xfWc0vFDVWzs",
+							"notePath": [
+								"root",
+								"MvY1VI0c4Uc4",
+								"xfWc0vFDVWzs"
+							],
+							"isClone": false,
+							"title": "Sources",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Sources.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "WP5YQkJJ4DfB",
+							"notePath": [
+								"root",
+								"MvY1VI0c4Uc4",
+								"WP5YQkJJ4DfB"
+							],
+							"isClone": false,
+							"title": "Os Dev languages",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Os Dev languages.md",
+							"dirFileName": "Os Dev languages",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "EpEssO9CLcBJ",
+									"notePath": [
+										"root",
+										"MvY1VI0c4Uc4",
+										"WP5YQkJJ4DfB",
+										"EpEssO9CLcBJ"
+									],
+									"isClone": false,
+									"title": "ASM",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "ASM.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "Hclv97g1aYNo",
+									"notePath": [
+										"root",
+										"MvY1VI0c4Uc4",
+										"WP5YQkJJ4DfB",
+										"Hclv97g1aYNo"
+									],
+									"isClone": false,
+									"title": "C++",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "C++.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "gVK8F8mjD89F",
+									"notePath": [
+										"root",
+										"MvY1VI0c4Uc4",
+										"WP5YQkJJ4DfB",
+										"gVK8F8mjD89F"
+									],
+									"isClone": false,
+									"title": "makefile",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "makefile.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						},
+						{
+							"noteId": "wRU68tJFUmXz",
+							"notePath": [
+								"root",
+								"MvY1VI0c4Uc4",
+								"wRU68tJFUmXz"
+							],
+							"isClone": false,
+							"title": "Booting The Computer",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Booting The Computer.md",
+							"dirFileName": "Booting The Computer",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "jjAKrF815X82",
+									"notePath": [
+										"root",
+										"MvY1VI0c4Uc4",
+										"wRU68tJFUmXz",
+										"jjAKrF815X82"
+									],
+									"isClone": false,
+									"title": "Stage 1: Firmware",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Stage 1 Firmware.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "m4iJPy9bhz2G",
+									"notePath": [
+										"root",
+										"MvY1VI0c4Uc4",
+										"wRU68tJFUmXz",
+										"m4iJPy9bhz2G"
+									],
+									"isClone": false,
+									"title": "Stage 2: Bootloader",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Stage 2 Bootloader.md",
+									"noImport": false,
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Hclv97g1aYNo",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
+									"attachments": [
+										{
+											"attachmentId": "mG22uOmI31ic",
+											"title": "linux-mint-20_show_grub_boot_menu.png",
+											"role": "image",
+											"mime": "image/png",
+											"position": 10,
+											"dataFileName": "Stage 2 Bootloader_linux-mint-.png"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "HayMOLkbMhzJ",
+					"notePath": [
+						"root",
+						"HayMOLkbMhzJ"
+					],
+					"isClone": false,
+					"title": "Arm SMMU Spec 3 Docs",
+					"notePosition": 180,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "Arm SMMU Spec 3 Docs",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "mapType",
+							"value": "tree",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "jnCjfTCzdZ9D",
+							"notePath": [
+								"root",
+								"HayMOLkbMhzJ",
+								"jnCjfTCzdZ9D"
+							],
+							"isClone": false,
+							"title": "Definitions",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Definitions.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "jSZGI9jxj86G",
+							"notePath": [
+								"root",
+								"HayMOLkbMhzJ",
+								"jSZGI9jxj86G"
+							],
+							"isClone": false,
+							"title": "Chap 2- Intro",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Chap 2- Intro.md",
+							"dirFileName": "Chap 2- Intro",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "YehHukBNplHq",
+									"notePath": [
+										"root",
+										"HayMOLkbMhzJ",
+										"jSZGI9jxj86G",
+										"YehHukBNplHq"
+									],
+									"isClone": false,
+									"title": "What is the SMMU?",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "What is the SMMU.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "hZY5KvmWibac",
+									"notePath": [
+										"root",
+										"HayMOLkbMhzJ",
+										"jSZGI9jxj86G",
+										"hZY5KvmWibac"
+									],
+									"isClone": false,
+									"title": "What Does The SSMU Do?",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "What Does The SSMU Do.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "q2Xa1n7iNddW",
+									"notePath": [
+										"root",
+										"HayMOLkbMhzJ",
+										"jSZGI9jxj86G",
+										"q2Xa1n7iNddW"
+									],
+									"isClone": false,
+									"title": "Where Is The SSMU Is Used?",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Where Is The SSMU Is Used.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "S1gVAsgyxQbp",
+									"notePath": [
+										"root",
+										"HayMOLkbMhzJ",
+										"jSZGI9jxj86G",
+										"S1gVAsgyxQbp"
+									],
+									"isClone": false,
+									"title": "Where The SSMU(S) Could Fit (Diagram)",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Where The SSMU(S) Could Fit (D.md",
+									"noImport": false,
+									"attributes": [
+										{
+											"type": "label",
+											"name": "iconClass",
+											"value": "bx bx-pen",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"attachments": [
+										{
+											"attachmentId": "s9mEQxGMiOH3",
+											"title": "image.png",
+											"role": "image",
+											"mime": "image/png",
+											"position": 10,
+											"dataFileName": "Where The SSMU(S) Could Fit (D.png"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "kNb6F9XSViNa",
+					"notePath": [
+						"root",
+						"kNb6F9XSViNa"
+					],
+					"isClone": false,
+					"title": "Writing A C Compiler",
+					"notePosition": 190,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "Writing A C Compiler.md",
+					"dirFileName": "Writing A C Compiler",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "4S2WASy5TMuX",
+							"title": "Sandler Nora - Writing a C Compiler - 2024.pdf",
+							"role": "file",
+							"mime": "application/pdf",
+							"position": 10,
+							"dataFileName": "Writing A C Compiler_Sandler N.pdf"
+						}
+					],
+					"children": [
+						{
+							"noteId": "uE0PoBW1FNZI",
+							"notePath": [
+								"root",
+								"kNb6F9XSViNa",
+								"uE0PoBW1FNZI"
+							],
+							"isClone": false,
+							"title": "What page am i on?",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "What page am i on.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "Ih6NjaoyDVnU",
+							"notePath": [
+								"root",
+								"kNb6F9XSViNa",
+								"Ih6NjaoyDVnU"
+							],
+							"isClone": false,
+							"title": "Intro",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Intro.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "84FBqKsfhadc",
+							"notePath": [
+								"root",
+								"kNb6F9XSViNa",
+								"84FBqKsfhadc"
+							],
+							"isClone": false,
+							"title": "Chapter 1",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "Chapter 1",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "ZsEuQfbfL3sB",
+									"notePath": [
+										"root",
+										"kNb6F9XSViNa",
+										"84FBqKsfhadc",
+										"ZsEuQfbfL3sB"
+									],
+									"isClone": false,
+									"title": "Stages a Compiler goes through",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dataFileName": "Stages a Compiler goes through.md",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

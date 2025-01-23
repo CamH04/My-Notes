@@ -1,0 +1,10 @@
+CREATE OR REPLACE PROCEDURE p_name (tennantno Tennent.tennent_no%type)
+LANGUAGE 'plpgsql' AS
+$body$
+
+DECLARE ...
+BEGIN ...
+END ...
+
+
+$body$
