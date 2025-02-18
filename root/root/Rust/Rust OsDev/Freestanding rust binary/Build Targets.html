@@ -1,0 +1,39 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Build Targets</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Build Targets</h1>
+
+      <div class="ck-content">
+        <p><strong><u>My specific target:</u></strong>
+        </p>
+        <p><code>cargo build --target albaos.json</code>
+          <br>&nbsp;</p>
+        <p><strong><u>Run in qemu</u></strong>
+        </p>
+        <p><code>qemu-system-x86_64 -drive format=raw,file="target/albaos/debug/bootimage-albaos.bin"</code>
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>had to build for a non default env so i had to build for a ARM env as
+          an example</p>
+        <p><code>&nbsp;cargo build --target thumbv7em-none-eabihf</code>
+        </p>
+        <p>&nbsp;</p>
+        <p>could build it for host with ore linker commands&nbsp;</p>
+        <p><code>cargo rustc -- -C link-arg=-nostartfiles</code>
+        </p>
+      </div>
+    </div>
+  </body>
+
+</html>

@@ -1,0 +1,98 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Vga Writing</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Vga Writing</h1>
+
+      <div class="ck-content">
+        <p>Read and write to 0xb8000&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><u>BUFFER STRUCTURE</u>
+        </p>
+        <p>Bits &nbsp; &nbsp; Byte &nbsp; &nbsp; What It Does</p>
+        <p>0-7 &nbsp; &nbsp; &nbsp;1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Code
+          page 437 Representation Number (high ASCII or OEM font)
+          <br>8-11 &nbsp; &nbsp; 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Foreground
+          Colour
+          <br>12-14 &nbsp; 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Backround Colour
+          <br>15 &nbsp; &nbsp; &nbsp; &nbsp;2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          &nbsp;Will the character blink</p>
+        <p>&nbsp;</p>
+        <p><u>COLOURS</u>
+        </p>
+        <figure class="table">
+          <table>
+            <thead>
+              <tr>
+                <th>Number</th>
+                <th>Color</th>
+                <th>Number + Bright Bit</th>
+                <th>Bright Color</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>0x0</td>
+                <td>Black</td>
+                <td>0x8</td>
+                <td>Dark Gray</td>
+              </tr>
+              <tr>
+                <td>0x1</td>
+                <td>Blue</td>
+                <td>0x9</td>
+                <td>Light Blue</td>
+              </tr>
+              <tr>
+                <td>0x2</td>
+                <td>Green</td>
+                <td>0xa</td>
+                <td>Light Green</td>
+              </tr>
+              <tr>
+                <td>0x3</td>
+                <td>Cyan</td>
+                <td>0xb</td>
+                <td>Light Cyan</td>
+              </tr>
+              <tr>
+                <td>0x4</td>
+                <td>Red</td>
+                <td>0xc</td>
+                <td>Light Red</td>
+              </tr>
+              <tr>
+                <td>0x5</td>
+                <td>Magenta</td>
+                <td>0xd</td>
+                <td>Pink</td>
+              </tr>
+              <tr>
+                <td>0x6</td>
+                <td>Brown</td>
+                <td>0xe</td>
+                <td>Yellow</td>
+              </tr>
+              <tr>
+                <td>0x7</td>
+                <td>Light Gray</td>
+                <td>0xf</td>
+                <td>White</td>
+              </tr>
+            </tbody>
+          </table>
+        </figure>
+        <p>full colour is held as 1 byte</p>
+      </div>
+    </div>
+  </body>
+
+</html>

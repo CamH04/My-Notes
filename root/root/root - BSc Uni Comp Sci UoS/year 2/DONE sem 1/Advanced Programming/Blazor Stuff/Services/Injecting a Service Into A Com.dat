@@ -1,0 +1,3 @@
+@inject MyService myService
+
+<p>@myService.Method()</p>

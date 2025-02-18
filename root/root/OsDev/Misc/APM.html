@@ -1,0 +1,39 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>APM</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>APM</h1>
+
+      <div class="ck-content">
+        <p><code>&nbsp; &nbsp; asm volatile(</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"movb $0x53, %%ah\n\t" //0x53 to ah means apm function</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"movb $0x07, %%al\n\t" // 0x07 sets state</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"movw $0x0001, %%bx\n\t" // all devices</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"movw $0x0003, %%cx\n\t" // desierd power state</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"int $0x15\n\t" // bios interrupt 0x15 to exectue apm function</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;//results</code>
+          <br><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"jc 1f\n\t" //if error flag set</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"jmp 2f\n\t"</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"1:\n\t"</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"movb $1, %0\n\t"</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;"2:\n\t"</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;: "=r"(APM_error)</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;:</code>
+          <br><code>&nbsp; &nbsp; &nbsp; &nbsp;: "memory", "%ah", "%al", "%bx", "%cx", "cc"</code>
+          <br><code>&nbsp; &nbsp;);</code>
+        </p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </body>
+
+</html>

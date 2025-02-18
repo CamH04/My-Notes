@@ -1,0 +1,38 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>UART</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>UART</h1>
+
+      <div class="ck-content">
+        <p>Universal Asynchronous Receive Transmit:</p>
+        <ul>
+          <li>Serial, Async</li>
+          <li>2 lines , one recive one send</li>
+          <li>The receiver must lock onto the data and detect individual bits</li>
+          <li>starts with a starting bit, usually by driving
+            <br>logic low for one clock cycle. In the next n clock cycles, n bits are
+            sent
+            <br>sequentially from the transmitter until a stop bit is sent</li>
+          <li>Char is 8 bits usualy</li>
+          <li>Can have a parity bit:
+            <ul>
+              <li>Parity can be set to "odd" or "even," and it ensures that the total number
+                of bits set to
+                <br>logic "1" in a character is either even or odd</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+
+</html>

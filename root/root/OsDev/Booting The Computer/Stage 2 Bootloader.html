@@ -1,0 +1,44 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Stage 2: Bootloader</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Stage 2: Bootloader</h1>
+
+      <div class="ck-content">
+        <p>2.Bootloader</p>
+        <p style="margin-left:40px;">The MBR is loaded into ram which is referred to as the boot-loader (eg.
+          GRUB)</p>
+        <p style="margin-left:40px;">The CPU will then jump to the bootloader in RAM</p>
+        <p style="margin-left:40px;">The Bootloader is executed&nbsp;</p>
+        <p style="margin-left:80px;">The bootloader will be able to interact with file structures and partitions</p>
+        <p
+        style="margin-left:40px;">The bootloader will access a .cfg file which contains all menu entry's
+          about which partition has which OS on it and it is displayed on the screen:</p>
+          <figure
+          class="image image_resized" style="width:61.19%;">
+            <img style="aspect-ratio:368/274;" src="Stage 2 Bootloader_linux-mint-.png"
+            alt="Show the GRUB Boot Menu in Linux Mint at Startup – Living the Linux  Lifestyle"
+            width="368" height="274">
+            <figcaption>grub menu entry's</figcaption>
+            </figure>
+            <p>&nbsp;</p>
+            <p style="margin-left:40px;">When selected the menu entry will point to the partition in which that
+              kernel is stored</p>
+            <p style="margin-left:40px;">The kernel.bin file is loaded into RAM</p>
+            <p style="margin-left:40px;">CPU will jump into the kernel in RAM</p>
+            <p style="margin-left:80px;">(For note about the AlbaOS Kernel and how it is created look here :&nbsp;
+              <a
+              class="reference-link" href="../Os%20Dev%20languages/C%2B%2B.html">C++</a>)</p>
+      </div>
+    </div>
+  </body>
+
+</html>

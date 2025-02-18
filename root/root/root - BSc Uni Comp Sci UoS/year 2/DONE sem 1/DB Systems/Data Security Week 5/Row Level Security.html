@@ -1,0 +1,60 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Row Level Security</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Row Level Security</h1>
+
+      <div class="ck-content">
+        <p>ROW LEVEL Security</p>
+        <p>https://canvas.sunderland.ac.uk/courses/75411/files/14951982?wrap=1</p>
+        <p>^ (SQL FILE FOR THIS STUFF)</p>
+        <p>views on the db are listed in biews tab</p>
+        <p>to see what polices are linked to a table look at RLS policies table on
+          the table</p>
+        <p><code>===============================================</code>
+        </p>
+        <p><code>//creates the view to put policys in and to store attributes</code>
+        </p>
+        <p><code>CREATE VIEW staff_branches</code>
+        </p>
+        <p><code>//give view to role</code>
+        </p>
+        <p><code>GRANT SELECT ON staff_branches TO manager</code>
+        </p>
+        <p><code>===============================================</code>
+        </p>
+        <p><code>RLS eg:</code>
+        </p>
+        <p><code>// what this does is that the only row that the user can see is their own, their username is stored in staff_no</code>
+        </p>
+        <p><code>// everything after the with check statment is satying that these are the conditions they can insert &nbsp;/ update / delete to</code>
+        </p>
+        <p><code>ALTER TABLE table ENABLE ROW LEVEL SECURITY</code>
+        </p>
+        <p><code>CREATE POLICY name ON table TO role USING (CURRENT_USER = 'u'||staff_no) WITH CHECK (CURRENT_USER = 'u'||staff_no);</code>
+        </p>
+        <p><code>===============================================</code>
+        </p>
+        <p><code>RLS eg:</code>
+        </p>
+        <p><code>//can see rows in which i am a manager of that branch</code>
+        </p>
+        <p><code>CREATE POLICY manager_policy ON staff TO manager</code>
+        </p>
+        <p><code>USING (branch_no = (SELECT branch_no FROM staff_branches));</code>
+        </p>
+        <p><code>===============================================</code>
+        </p>
+      </div>
+    </div>
+  </body>
+
+</html>

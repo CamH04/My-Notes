@@ -1,0 +1,29 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Stage 1: Firmware</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Stage 1: Firmware</h1>
+
+      <div class="ck-content">
+        <p>1.Firmware</p>
+        <p style="margin-left:40px;">Takes firmware data from bios and copies it to RAM</p>
+        <p style="margin-left:40px;">Instruction pointer is put to the start off copied firmware in RAM</p>
+        <p
+        style="margin-left:40px;">Firmware tells CPU to talk to HDD to load MBR</p>
+          <p style="margin-left:80px;">This will be the first ~2MB stored on the HDD disc, this area is called
+            the master boot record (MBR)&nbsp;</p>
+          <p style="margin-left:80px;">The reason for having a MBR is becuase the Firmware doesnt know about
+            partition tables and file structures</p>
+      </div>
+    </div>
+  </body>
+
+</html>

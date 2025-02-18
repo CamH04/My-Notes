@@ -1,0 +1,32 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Stack Frame</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Stack Frame</h1>
+
+      <div class="ck-content">
+        <p>NIC (send a receive raw data) →</p>
+        <p>Ethernet Frame (with raw data it decides what protocol to pass data onto)</p>
+        <p>&nbsp;</p>
+        <p>In order of stack frame structure</p>
+        <p>6 Bytes : Mac Address Destination</p>
+        <ul>
+          <li>Little Note : <code>0xFFFFFFFFFFFF</code> = broadcast on local network</li>
+        </ul>
+        <p>6 Bytes : Mac Address Source</p>
+        <p>2 Bytes : Ether Type</p>
+        <p>? : Data</p>
+        <p>4 Bytes : Checksumk</p>
+      </div>
+    </div>
+  </body>
+
+</html>

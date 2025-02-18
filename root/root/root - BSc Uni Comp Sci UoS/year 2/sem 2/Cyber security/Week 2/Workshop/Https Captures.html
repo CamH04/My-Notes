@@ -1,0 +1,43 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Https Captures</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Https Captures</h1>
+
+      <div class="ck-content">
+        <ul>
+          <li>Start a new Wireshark capture (no filters) on eth0</li>
+          <li>From the client machine access the www.honeypot.com site from the browser
+            as follows:
+            <ol>
+              <li>&nbsp;
+                <ol>
+                  <li>http://www.honeypot.com</li>
+                  <li><a href="https://www.honeypot.com">https://www.honeypot.com</a>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+        </ul>
+        <p>Stop the capture and filter the traffic as follows:</p>
+        <ol>
+          <li>Filter all the HTTP traffic</li>
+          <li>Find the first HTTP request and follow the HTTP Stream and identify the
+            HTML.</li>
+          <li>Filter all the HTTPS traffic (not so straight forward a bit of research
+            required by yourself!)</li>
+        </ol>
+      </div>
+    </div>
+  </body>
+
+</html>

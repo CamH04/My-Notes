@@ -1,0 +1,49 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>SQL for RBAC</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>SQL for RBAC</h1>
+
+      <div class="ck-content">
+        <p>Allow a privilege to a user&nbsp;</p>
+        <p><code>GRANT &lt;privilege&gt; ON &lt;object&gt; TO &lt;user(s)/role&gt;;</code>
+        </p>
+        <p>&nbsp;</p>
+        <p>Remove a privilege to a user&nbsp;</p>
+        <p><code>REVOKE &lt;privilege&gt; ON &lt;object&gt; FROM &lt;user(s)/role&gt;;</code>
+        </p>
+        <p>&nbsp;</p>
+        <p>Common privileges are:</p>
+        <ul>
+          <li>ALL, SELECT, INSERT, UPDATE, DELETE</li>
+        </ul>
+        <p style="margin-left:40px;">&nbsp;</p>
+        <p>Objects can be</p>
+        <ul>
+          <li>Tables, columns, views</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p><u>EGS</u>
+        </p>
+        <p>Privileges can be granted to users or roles, e.g:
+          <br><code>CREATE ROLE admin_role;</code>
+          <br><code>GRANT INSERT ON my_table TO admin_role;</code>
+          <br><code>GRANT admin_role TO fred;</code>
+          <br>&nbsp;</p>
+        <p>To revoke/remove roles:
+          <br><code>REVOKE admin_role FROM barney;</code>
+          <br><code>DROP ROLE admin_role;</code>
+        </p>
+      </div>
+    </div>
+  </body>
+
+</html>

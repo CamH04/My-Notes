@@ -1,0 +1,76 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Ownership</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Ownership</h1>
+
+      <div class="ck-content">
+        <p><span class="text-big"><strong><u>Rule 1: All data in rust has an owner</u></strong></span>
+        </p>
+        <p><span class="text-big"><strong><u>Rule 2: Data can only be held by 1 owner at a time</u></strong></span>
+        </p>
+        <p>&nbsp;</p>
+        <p><code>fn main(){</code>
+        </p>
+        <p style="margin-left:40px;"><code>let s1 = String::from("Hello!");</code>
+        </p>
+        <p style="margin-left:40px;"><code>let s2 = s1;</code>
+        </p>
+        <p style="margin-left:40px;"><code>println!("{s1}"); //compile error: borrow of moved value s1</code>
+        </p>
+        <p><code>}</code>
+        </p>
+        <p>^ this would not compile as the value of s1 is now owned by s2</p>
+        <p>(the heap allocated string is moved from s1 to s2, making s1 not the owner)</p>
+        <p>&nbsp;</p>
+        <p><u>How to avoid this error?</u>
+        </p>
+        <p>we could clone s1 to s2 instead of changing the owner: (this creates a
+          new copy of s1 and heap allocated it to s2)</p>
+        <p><code>fn main(){</code>
+        </p>
+        <p style="margin-left:40px;"><code>let s1 = String::from("Hello!");</code>
+        </p>
+        <p style="margin-left:40px;"><code>let s2 = s1.clone();</code>
+        </p>
+        <p style="margin-left:40px;"><code>println!("{s1}");</code>
+        </p>
+        <p><code>}</code>
+        </p>
+        <p>&nbsp;</p>
+        <p><u>Rule 2 Also Applies to functions</u>
+        </p>
+        <p><span class="text-big"><strong><u>Rule 3: When owner moves out of scope it is de-allocated</u></strong></span>
+        </p>
+        <p>&nbsp;</p>
+        <p><code>fn main(){</code>
+        </p>
+        <p style="margin-left:40px;"><code>let s1 = String::from("Hello!");</code>
+        </p>
+        <p style="margin-left:40px;"><code>let s2 = s1;</code>
+        </p>
+        <p style="margin-left:40px;"><code>print_string(s2);</code>
+        </p>
+        <p><code>}</code>
+        </p>
+        <p><code>fn print_string(s:String){</code>
+        </p>
+        <p style="margin-left:40px;"><code>println!("{s}");</code>
+        </p>
+        <p><code>} // s is now de-allocated</code>
+        </p>
+        <p>^ here the value of s2 is now given to the argument of the function</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </body>
+
+</html>
