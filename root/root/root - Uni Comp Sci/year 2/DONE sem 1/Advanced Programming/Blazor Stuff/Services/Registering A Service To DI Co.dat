@@ -1,3 +1,0 @@
-//program.cs
-
-builder.Services.AddSingleton<MyService>();  //AddScoped , AddTransient

@@ -1,2 +1,0 @@
-# Intro
-GDB - debugging asm

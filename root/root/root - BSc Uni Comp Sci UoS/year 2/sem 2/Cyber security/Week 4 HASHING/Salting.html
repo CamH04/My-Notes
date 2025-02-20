@@ -1,0 +1,34 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Salting</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Salting</h1>
+
+      <div class="ck-content">
+        <p>Create a random string to be added to the password
+          <br>Hash both the random string and the password
+          <br>, We get a unique hash for each user, even if they use the same password</p>
+        <p>&nbsp;</p>
+        <figure class="image">
+          <img style="aspect-ratio:786/131;" src="Salting_image.png" width="786"
+          height="131">
+        </figure>
+        <p>&nbsp;</p>
+        <p>Well, now we need to hash the salt don’t we? The attacker can find the
+          hashed password and the salt and generate a new password list</p>
+        <p style="margin-left:40px;">Sure, the attacker can do that – but now they need a new rainbow table
+          or hash table for EVERY user
+          <br>That becomes a lot of work</p>
+      </div>
+    </div>
+  </body>
+
+</html>

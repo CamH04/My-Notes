@@ -1,0 +1,54 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Task 3 Escalating Access</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Task 3 Escalating Access</h1>
+
+      <div class="ck-content">
+        <p>The previous stage we should have found some logon credentials for the
+          database. These are likely an individual users credentials, and wont have
+          access to the administration options we want, or all the data we want.
+          So lets fix that.</p>
+        <p>On kali, open a terminal window and type</p>
+        <p><strong>mysql -h 192.168.100.60 -u wordpress -p</strong>
+        </p>
+        <p>Enter the password we found.</p>
+        <p>Type:</p>
+        <p><strong>SHOW DATABASES;</strong>
+        </p>
+        <p>Have a look at what we have found. The tzab3 database looks like it may
+          contain some interesting information, and at the very least we should have
+          some access to the wordpress database.</p>
+        <p>Type:</p>
+        <p><strong>use tzab3;&nbsp;</strong>
+        </p>
+        <p>Did it work? Why not? Type:</p>
+        <p><strong>use wordpress;</strong>
+        </p>
+        <p>Type:</p>
+        <p><strong>select * from wp_users;</strong>
+        </p>
+        <p>This is interesting, there is an admin username and password. Get both.
+          The password has been hashed, but this is not a big deal. Hashing can be
+          undone. Particularly if it is a simple password. One method is to create
+          a list of possible passwords (a dictionary) and hash them using the same
+          method as has been used by the database. If a hash matches the hash we
+          have, then that’s the password. We will assume we have done this for the
+          remainder of the exercise (though, see if you can write a program to do
+          that if you want!)</p>
+        <p>Type</p>
+        <p><strong>quit</strong>
+        </p>
+      </div>
+    </div>
+  </body>
+
+</html>

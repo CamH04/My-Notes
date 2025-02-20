@@ -1,5 +1,0 @@
-INSERT INTO tbl VALUES (nextval('sequenceName'));
-
-
-
-DEFAULT (nextval('sequenceName'));

@@ -1,9 +1,0 @@
-CREATE OR REPLACE FUNCTION months_between(stdate DATE, enddate DATE) RETURNS INTEGER
-LANGUAGE 'plpgsql' AS
-$BODY$
-    BEGIN
-        RETURN extract(year from age(enddate, stdate))*12 + EXTRACT(month from
-        age(enddate, stdate));
-    END;
-$BODY$
-  

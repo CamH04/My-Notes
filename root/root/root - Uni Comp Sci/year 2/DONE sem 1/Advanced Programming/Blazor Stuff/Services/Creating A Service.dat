@@ -1,9 +1,0 @@
-//adding a module to a dataset
-public class MyService{
-    private bool _isAuthenticated;
-    public bool IsAuthenticated => _isAuthenticated;
-    
-    public void Login() => _isAuthenticated = true;
-    public void Logout() => _isAuthenticated = false;
-
-}
