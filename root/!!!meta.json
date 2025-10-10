@@ -36,6 +36,58 @@
 			"attachments": [],
 			"children": [
 				{
+					"noteId": "Iif1FAGJ868k",
+					"notePath": [
+						"root",
+						"Iif1FAGJ868k"
+					],
+					"isClone": false,
+					"title": "Trillium Changes",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "code",
+					"mime": "text/css",
+					"dataFileName": "Trillium Changes.css",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "appCss",
+							"value": "",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
+					"attachments": []
+				},
+				{
+					"noteId": "NweqoojwGAxm",
+					"notePath": [
+						"root",
+						"NweqoojwGAxm"
+					],
+					"isClone": false,
+					"title": "Alba Theme",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "code",
+					"mime": "text/css",
+					"dataFileName": "Alba Theme.css",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "appTheme",
+							"value": "Alba",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
+					"attachments": []
+				},
+				{
 					"noteId": "UPtvybckErSC",
 					"notePath": [
 						"root",
@@ -43,9 +95,9 @@
 					],
 					"isClone": false,
 					"title": "BSc Uni Comp Sci UoS",
-					"notePosition": 50,
+					"notePosition": 70,
 					"prefix": "root",
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"format": "html",
@@ -74,7 +126,7 @@
 							"title": "year 2",
 							"notePosition": 10,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
 							"format": "html",
@@ -3000,6 +3052,201 @@
 															]
 														}
 													]
+												},
+												{
+													"noteId": "lTa4xQLQx72F",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"W7YLK6IjyhpV",
+														"7Fy4X1yo8UzY",
+														"lTa4xQLQx72F"
+													],
+													"isClone": false,
+													"title": "SSH",
+													"notePosition": 40,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "html",
+													"dataFileName": "SSH.html",
+													"dirFileName": "SSH",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "TqH3M0CCcDa8",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"W7YLK6IjyhpV",
+																"7Fy4X1yo8UzY",
+																"lTa4xQLQx72F",
+																"TqH3M0CCcDa8"
+															],
+															"isClone": false,
+															"title": "Encryption",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "html",
+															"dataFileName": "Encryption.html",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "MRtPavko8QBV",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"W7YLK6IjyhpV",
+																"7Fy4X1yo8UzY",
+																"lTa4xQLQx72F",
+																"MRtPavko8QBV"
+															],
+															"isClone": false,
+															"title": "Auth",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "html",
+															"dataFileName": "Auth.html",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "vLG6hbQ8HRi7",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"W7YLK6IjyhpV",
+																"7Fy4X1yo8UzY",
+																"lTa4xQLQx72F",
+																"vLG6hbQ8HRi7"
+															],
+															"isClone": false,
+															"title": "Config",
+															"notePosition": 30,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "html",
+															"dataFileName": "Config.html",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
+												},
+												{
+													"noteId": "21sLgWzUdnmi",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"W7YLK6IjyhpV",
+														"7Fy4X1yo8UzY",
+														"21sLgWzUdnmi"
+													],
+													"isClone": false,
+													"title": "Countermeasures / Hardening",
+													"notePosition": 50,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "html",
+													"dataFileName": "Countermeasures  Hardening.html",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "jDNfmqQqLmKA",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"W7YLK6IjyhpV",
+														"7Fy4X1yo8UzY",
+														"jDNfmqQqLmKA"
+													],
+													"isClone": false,
+													"title": "OWASP and XAMPP",
+													"notePosition": 60,
+													"prefix": null,
+													"isExpanded": true,
+													"type": "text",
+													"mime": "text/html",
+													"format": "html",
+													"dataFileName": "OWASP and XAMPP.html",
+													"dirFileName": "OWASP and XAMPP",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "6zrQVXF5ju0M",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"W7YLK6IjyhpV",
+																"7Fy4X1yo8UzY",
+																"jDNfmqQqLmKA",
+																"6zrQVXF5ju0M"
+															],
+															"isClone": false,
+															"title": "OWASP",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "html",
+															"dataFileName": "OWASP.html",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														},
+														{
+															"noteId": "qgT0bag4V1hL",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"W7YLK6IjyhpV",
+																"7Fy4X1yo8UzY",
+																"jDNfmqQqLmKA",
+																"qgT0bag4V1hL"
+															],
+															"isClone": false,
+															"title": "XAMPP",
+															"notePosition": 20,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "html",
+															"dataFileName": "XAMPP.html",
+															"noImport": false,
+															"attributes": [],
+															"attachments": []
+														}
+													]
 												}
 											]
 										},
@@ -3016,7 +3263,7 @@
 											"title": "IoT and Robotics",
 											"notePosition": 20,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"format": "html",
@@ -3038,7 +3285,7 @@
 													],
 													"isClone": false,
 													"title": "PinOut Diagrams",
-													"notePosition": 10,
+													"notePosition": 20,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
@@ -3048,14 +3295,6 @@
 													"noImport": false,
 													"attributes": [],
 													"attachments": [
-														{
-															"attachmentId": "S4We3A4Pqtn2",
-															"title": "image.jpg",
-															"role": "image",
-															"mime": "image/jpg",
-															"position": 10,
-															"dataFileName": "PinOut Diagrams_image.jpg"
-														},
 														{
 															"attachmentId": "CHJZb5ZUhigO",
 															"title": "pico-2-r4-pinout.svg",
@@ -3085,15 +3324,15 @@
 														"Y8NPiS5joWed"
 													],
 													"isClone": false,
-													"title": "Embedded Protocols - WEEK 3",
-													"notePosition": 20,
+													"title": "Embedded Protocols",
+													"notePosition": 30,
 													"prefix": null,
-													"isExpanded": false,
+													"isExpanded": true,
 													"type": "text",
 													"mime": "text/html",
 													"format": "html",
-													"dataFileName": "Embedded Protocols - WEEK 3.html",
-													"dirFileName": "Embedded Protocols - WEEK 3",
+													"dataFileName": "Embedded Protocols.html",
+													"dirFileName": "Embedded Protocols",
 													"noImport": false,
 													"attributes": [],
 													"attachments": [],
@@ -3198,6 +3437,218 @@
 																	"attachments": []
 																},
 																{
+																	"noteId": "FR5AlzejGkpC",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"W7YLK6IjyhpV",
+																		"8yVItcM9o5ET",
+																		"Y8NPiS5joWed",
+																		"KdOFWHaoEbUS",
+																		"FR5AlzejGkpC"
+																	],
+																	"isClone": false,
+																	"title": "MQTT",
+																	"notePosition": 40,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "text",
+																	"mime": "text/html",
+																	"format": "html",
+																	"dataFileName": "MQTT.html",
+																	"dirFileName": "MQTT",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": [],
+																	"children": [
+																		{
+																			"noteId": "f8CrWI344B1D",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"W7YLK6IjyhpV",
+																				"8yVItcM9o5ET",
+																				"Y8NPiS5joWed",
+																				"KdOFWHaoEbUS",
+																				"FR5AlzejGkpC",
+																				"f8CrWI344B1D"
+																			],
+																			"isClone": false,
+																			"title": "Architecture",
+																			"notePosition": 10,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "text",
+																			"mime": "text/html",
+																			"format": "html",
+																			"dataFileName": "Architecture.html",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		},
+																		{
+																			"noteId": "ZAhOWI58Vbyo",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"W7YLK6IjyhpV",
+																				"8yVItcM9o5ET",
+																				"Y8NPiS5joWed",
+																				"KdOFWHaoEbUS",
+																				"FR5AlzejGkpC",
+																				"ZAhOWI58Vbyo"
+																			],
+																			"isClone": false,
+																			"title": "QoS",
+																			"notePosition": 20,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "text",
+																			"mime": "text/html",
+																			"format": "html",
+																			"dataFileName": "QoS.html",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": [
+																				{
+																					"attachmentId": "k0BIKymNJyzx",
+																					"title": "image.png",
+																					"role": "image",
+																					"mime": "image/jpg",
+																					"position": 10,
+																					"dataFileName": "QoS_image.png"
+																				}
+																			]
+																		},
+																		{
+																			"noteId": "Bd6mFnKejwkv",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"W7YLK6IjyhpV",
+																				"8yVItcM9o5ET",
+																				"Y8NPiS5joWed",
+																				"KdOFWHaoEbUS",
+																				"FR5AlzejGkpC",
+																				"Bd6mFnKejwkv"
+																			],
+																			"isClone": false,
+																			"title": "Retained Message's",
+																			"notePosition": 30,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "text",
+																			"mime": "text/html",
+																			"format": "html",
+																			"dataFileName": "Retained Message's.html",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		},
+																		{
+																			"noteId": "cjAoRi6EhOUl",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"W7YLK6IjyhpV",
+																				"8yVItcM9o5ET",
+																				"Y8NPiS5joWed",
+																				"KdOFWHaoEbUS",
+																				"FR5AlzejGkpC",
+																				"cjAoRi6EhOUl"
+																			],
+																			"isClone": false,
+																			"title": "Security",
+																			"notePosition": 40,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "text",
+																			"mime": "text/html",
+																			"format": "html",
+																			"dataFileName": "Security.html",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		}
+																	]
+																},
+																{
+																	"noteId": "A9dHIJF0PD7T",
+																	"notePath": [
+																		"root",
+																		"UPtvybckErSC",
+																		"rU3Pc8IpFVFB",
+																		"W7YLK6IjyhpV",
+																		"8yVItcM9o5ET",
+																		"Y8NPiS5joWed",
+																		"KdOFWHaoEbUS",
+																		"A9dHIJF0PD7T"
+																	],
+																	"isClone": false,
+																	"title": "CoAP",
+																	"notePosition": 50,
+																	"prefix": null,
+																	"isExpanded": false,
+																	"type": "text",
+																	"mime": "text/html",
+																	"format": "html",
+																	"dataFileName": "CoAP.html",
+																	"dirFileName": "CoAP",
+																	"noImport": false,
+																	"attributes": [],
+																	"attachments": [
+																		{
+																			"attachmentId": "u5OLVEY0CDPY",
+																			"title": "image.png",
+																			"role": "image",
+																			"mime": "image/jpg",
+																			"position": 10,
+																			"dataFileName": "CoAP_image.png"
+																		},
+																		{
+																			"attachmentId": "zvVWbqZQwzLH",
+																			"title": "image.png",
+																			"role": "image",
+																			"mime": "image/jpg",
+																			"position": 10,
+																			"dataFileName": "1_CoAP_image.png"
+																		}
+																	],
+																	"children": [
+																		{
+																			"noteId": "n2GdZy5aw89q",
+																			"notePath": [
+																				"root",
+																				"UPtvybckErSC",
+																				"rU3Pc8IpFVFB",
+																				"W7YLK6IjyhpV",
+																				"8yVItcM9o5ET",
+																				"Y8NPiS5joWed",
+																				"KdOFWHaoEbUS",
+																				"A9dHIJF0PD7T",
+																				"n2GdZy5aw89q"
+																			],
+																			"isClone": false,
+																			"title": "Architecture",
+																			"notePosition": 10,
+																			"prefix": null,
+																			"isExpanded": false,
+																			"type": "text",
+																			"mime": "text/html",
+																			"format": "html",
+																			"dataFileName": "Architecture.html",
+																			"noImport": false,
+																			"attributes": [],
+																			"attachments": []
+																		}
+																	]
+																},
+																{
 																	"noteId": "mSk5cL20igl6",
 																	"notePath": [
 																		"root",
@@ -3211,7 +3662,7 @@
 																	],
 																	"isClone": false,
 																	"title": "Components",
-																	"notePosition": 40,
+																	"notePosition": 60,
 																	"prefix": null,
 																	"isExpanded": true,
 																	"type": "text",
@@ -3266,7 +3717,7 @@
 													],
 													"isClone": false,
 													"title": "IoT Connectivity",
-													"notePosition": 30,
+													"notePosition": 40,
 													"prefix": null,
 													"isExpanded": false,
 													"type": "text",
@@ -3479,6 +3930,198 @@
 															"attachments": []
 														}
 													]
+												},
+												{
+													"noteId": "lshC4MkfjMR6",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"W7YLK6IjyhpV",
+														"8yVItcM9o5ET",
+														"lshC4MkfjMR6"
+													],
+													"isClone": false,
+													"title": "More Protocals",
+													"notePosition": 50,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "html",
+													"dataFileName": "More Protocals.html",
+													"noImport": false,
+													"attributes": [
+														{
+															"type": "relation",
+															"name": "internalLink",
+															"value": "FR5AlzejGkpC",
+															"isInheritable": false,
+															"position": 20
+														},
+														{
+															"type": "relation",
+															"name": "internalLink",
+															"value": "A9dHIJF0PD7T",
+															"isInheritable": false,
+															"position": 30
+														}
+													],
+													"attachments": []
+												},
+												{
+													"noteId": "WDU2g6thweCY",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"W7YLK6IjyhpV",
+														"8yVItcM9o5ET",
+														"WDU2g6thweCY"
+													],
+													"isClone": false,
+													"title": "Data Analysis And Visualization",
+													"notePosition": 60,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "html",
+													"dataFileName": "Data Analysis And Visualizatio.html",
+													"dirFileName": "Data Analysis And Visualization",
+													"noImport": false,
+													"attributes": [],
+													"attachments": [],
+													"children": [
+														{
+															"noteId": "uIzs3moZvYyJ",
+															"notePath": [
+																"root",
+																"UPtvybckErSC",
+																"rU3Pc8IpFVFB",
+																"W7YLK6IjyhpV",
+																"8yVItcM9o5ET",
+																"WDU2g6thweCY",
+																"uIzs3moZvYyJ"
+															],
+															"isClone": false,
+															"title": "Basic Statistics ",
+															"notePosition": 10,
+															"prefix": null,
+															"isExpanded": false,
+															"type": "text",
+															"mime": "text/html",
+															"format": "html",
+															"dataFileName": "Basic Statistics.html",
+															"noImport": false,
+															"attributes": [],
+															"attachments": [
+																{
+																	"attachmentId": "vKBfrZx5xEMg",
+																	"title": "sample_variance.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "Basic Statistics_sample_varian.svg"
+																},
+																{
+																	"attachmentId": "UUni7LUcKi2B",
+																	"title": "sample_variance_s2.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "1_Basic Statistics_sample_varian.svg"
+																},
+																{
+																	"attachmentId": "EwiVM7FmnOpU",
+																	"title": "sample_variance_x_i.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "2_Basic Statistics_sample_varian.svg"
+																},
+																{
+																	"attachmentId": "d5Leca03AjAV",
+																	"title": "sample_variance_x_hat.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "3_Basic Statistics_sample_varian.svg"
+																},
+																{
+																	"attachmentId": "2V5rUxKumqmA",
+																	"title": "sample_variance_n.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "4_Basic Statistics_sample_varian.svg"
+																},
+																{
+																	"attachmentId": "N0kg53fDqjX6",
+																	"title": "population_standard_deviation.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "Basic Statistics_population_st.svg"
+																},
+																{
+																	"attachmentId": "aAqqergPrLV0",
+																	"title": "population_standard_deviation_N.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "1_Basic Statistics_population_st.svg"
+																},
+																{
+																	"attachmentId": "2kt6PLzLIvBQ",
+																	"title": "population_standard_deviation_xi.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "2_Basic Statistics_population_st.svg"
+																},
+																{
+																	"attachmentId": "mWpo4f80RebV",
+																	"title": "population_standard_deviation_mu.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "3_Basic Statistics_population_st.svg"
+																},
+																{
+																	"attachmentId": "bfGBLpL1Yv7k",
+																	"title": "population_standard_deviation_sigma.svg",
+																	"role": "image",
+																	"mime": "image/svg+xml",
+																	"position": 10,
+																	"dataFileName": "4_Basic Statistics_population_st.svg"
+																}
+															]
+														}
+													]
+												},
+												{
+													"noteId": "Z1VurdTLzJHq",
+													"notePath": [
+														"root",
+														"UPtvybckErSC",
+														"rU3Pc8IpFVFB",
+														"W7YLK6IjyhpV",
+														"8yVItcM9o5ET",
+														"Z1VurdTLzJHq"
+													],
+													"isClone": false,
+													"title": "Robotics Intro",
+													"notePosition": 70,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "html",
+													"dataFileName": "Robotics Intro.html",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
 												}
 											]
 										},
@@ -3534,6 +4177,34 @@
 							]
 						},
 						{
+							"noteId": "5NHYz1Tk8mNe",
+							"notePath": [
+								"root",
+								"UPtvybckErSC",
+								"5NHYz1Tk8mNe"
+							],
+							"isClone": false,
+							"title": "Year 3",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "Year 3.html",
+							"noImport": false,
+							"attributes": [
+								{
+									"type": "label",
+									"name": "color",
+									"value": "orange",
+									"isInheritable": true,
+									"position": 10
+								}
+							],
+							"attachments": []
+						},
+						{
 							"noteId": "3PV4G3MsM7xm",
 							"notePath": [
 								"root",
@@ -3542,7 +4213,7 @@
 							],
 							"isClone": false,
 							"title": "Events",
-							"notePosition": 20,
+							"notePosition": 30,
 							"prefix": null,
 							"isExpanded": false,
 							"type": "text",
@@ -3579,242 +4250,6 @@
 					]
 				},
 				{
-					"noteId": "ib4IhNmNuFTr",
-					"notePath": [
-						"root",
-						"ib4IhNmNuFTr"
-					],
-					"isClone": false,
-					"title": "root - PASS",
-					"notePosition": 60,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"format": "html",
-					"dirFileName": "root - PASS",
-					"noImport": false,
-					"attributes": [
-						{
-							"type": "label",
-							"name": "iconClass",
-							"value": "bx bx-pencil",
-							"isInheritable": false,
-							"position": 10
-						},
-						{
-							"type": "label",
-							"name": "color",
-							"value": "orange",
-							"isInheritable": true,
-							"position": 20
-						}
-					],
-					"attachments": [],
-					"children": [
-						{
-							"noteId": "lWEEi1zg0Hk1",
-							"notePath": [
-								"root",
-								"ib4IhNmNuFTr",
-								"lWEEi1zg0Hk1"
-							],
-							"isClone": false,
-							"title": "NEXT SESSSION",
-							"notePosition": 10,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"format": "html",
-							"dataFileName": "NEXT SESSSION.html",
-							"noImport": false,
-							"attributes": [],
-							"attachments": []
-						},
-						{
-							"noteId": "XTSAudVg6mb5",
-							"notePath": [
-								"root",
-								"ib4IhNmNuFTr",
-								"XTSAudVg6mb5"
-							],
-							"isClone": false,
-							"title": "activity ideas",
-							"notePosition": 20,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"format": "html",
-							"dataFileName": "activity ideas.html",
-							"noImport": false,
-							"attributes": [],
-							"attachments": []
-						},
-						{
-							"noteId": "4yl2QzkVM1kQ",
-							"notePath": [
-								"root",
-								"ib4IhNmNuFTr",
-								"4yl2QzkVM1kQ"
-							],
-							"isClone": false,
-							"title": "Icebreakers",
-							"notePosition": 30,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"format": "html",
-							"dataFileName": "Icebreakers.html",
-							"noImport": false,
-							"attributes": [],
-							"attachments": []
-						},
-						{
-							"noteId": "oCzWbi77eSbe",
-							"notePath": [
-								"root",
-								"ib4IhNmNuFTr",
-								"oCzWbi77eSbe"
-							],
-							"isClone": false,
-							"title": "Coding Problems",
-							"notePosition": 40,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"format": "html",
-							"dirFileName": "Coding Problems",
-							"noImport": false,
-							"attributes": [],
-							"attachments": [],
-							"children": [
-								{
-									"noteId": "sLIU3MseQGBL",
-									"notePath": [
-										"root",
-										"ib4IhNmNuFTr",
-										"oCzWbi77eSbe",
-										"sLIU3MseQGBL"
-									],
-									"isClone": false,
-									"title": "Easy",
-									"notePosition": 10,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"format": "html",
-									"dataFileName": "Easy.html",
-									"noImport": false,
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "green",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"attachments": []
-								},
-								{
-									"noteId": "4Txsiu6zPGAH",
-									"notePath": [
-										"root",
-										"ib4IhNmNuFTr",
-										"oCzWbi77eSbe",
-										"4Txsiu6zPGAH"
-									],
-									"isClone": false,
-									"title": "Meduim",
-									"notePosition": 20,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"format": "html",
-									"dataFileName": "Meduim.html",
-									"noImport": false,
-									"attributes": [],
-									"attachments": []
-								},
-								{
-									"noteId": "Ebk1l3T5cbGW",
-									"notePath": [
-										"root",
-										"ib4IhNmNuFTr",
-										"oCzWbi77eSbe",
-										"Ebk1l3T5cbGW"
-									],
-									"isClone": false,
-									"title": "Hard",
-									"notePosition": 30,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"format": "html",
-									"dataFileName": "Hard.html",
-									"noImport": false,
-									"attributes": [
-										{
-											"type": "label",
-											"name": "color",
-											"value": "red",
-											"isInheritable": false,
-											"position": 10
-										}
-									],
-									"attachments": []
-								}
-							]
-						},
-						{
-							"noteId": "p2IlRi25LWhL",
-							"notePath": [
-								"root",
-								"ib4IhNmNuFTr",
-								"p2IlRi25LWhL"
-							],
-							"isClone": false,
-							"title": "Videos To Make",
-							"notePosition": 50,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"format": "html",
-							"dataFileName": "Videos To Make.html",
-							"noImport": false,
-							"attributes": [],
-							"attachments": []
-						},
-						{
-							"noteId": "riXB9l072vmF",
-							"notePath": [
-								"root",
-								"ib4IhNmNuFTr",
-								"riXB9l072vmF"
-							],
-							"isClone": false,
-							"title": "Blank Page For Drawing",
-							"notePosition": 60,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "relationMap",
-							"mime": "application/json",
-							"dataFileName": "Blank Page For Drawing.json",
-							"noImport": false,
-							"attributes": [],
-							"attachments": []
-						}
-					]
-				},
-				{
 					"noteId": "idybQNpTKOkW",
 					"notePath": [
 						"root",
@@ -3822,7 +4257,7 @@
 					],
 					"isClone": false,
 					"title": "Writings",
-					"notePosition": 70,
+					"notePosition": 90,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -3947,7 +4382,7 @@
 					],
 					"isClone": false,
 					"title": "Low Level / Embedded Courses",
-					"notePosition": 110,
+					"notePosition": 140,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -4431,7 +4866,7 @@
 					],
 					"isClone": false,
 					"title": "Rust",
-					"notePosition": 140,
+					"notePosition": 170,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -4668,7 +5103,7 @@
 					],
 					"isClone": false,
 					"title": "OsDev",
-					"notePosition": 170,
+					"notePosition": 200,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -4914,7 +5349,7 @@
 							"title": "Booting The Computer",
 							"notePosition": 50,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"format": "html",
@@ -4995,7 +5430,7 @@
 					],
 					"isClone": false,
 					"title": "Arm SMMU Spec 3 Docs",
-					"notePosition": 200,
+					"notePosition": 230,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -5045,7 +5480,7 @@
 							"title": "Chap 2- Intro",
 							"notePosition": 20,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"format": "html",
@@ -5168,7 +5603,7 @@
 					],
 					"isClone": false,
 					"title": "Writing A C Compiler",
-					"notePosition": 210,
+					"notePosition": 240,
 					"prefix": null,
 					"isExpanded": false,
 					"type": "text",
@@ -5266,6 +5701,524 @@
 									"mime": "text/html",
 									"format": "html",
 									"dataFileName": "Stages a Compiler goes through.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "Tek8SJWJDL1R",
+					"notePath": [
+						"root",
+						"Tek8SJWJDL1R"
+					],
+					"isClone": false,
+					"title": "NN",
+					"notePosition": 260,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "NN.html",
+					"dirFileName": "NN",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "jicq1VFAxkm3",
+							"notePath": [
+								"root",
+								"Tek8SJWJDL1R",
+								"jicq1VFAxkm3"
+							],
+							"isClone": false,
+							"title": "Cost intuition",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "Cost intuition.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "ZBdfsDOYbj0Q",
+							"notePath": [
+								"root",
+								"Tek8SJWJDL1R",
+								"ZBdfsDOYbj0Q"
+							],
+							"isClone": false,
+							"title": "Maths Stuff",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "Maths Stuff.html",
+							"dirFileName": "Maths Stuff",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "EhIK3SylAZMh",
+									"notePath": [
+										"root",
+										"Tek8SJWJDL1R",
+										"ZBdfsDOYbj0Q",
+										"EhIK3SylAZMh"
+									],
+									"isClone": false,
+									"title": "Matrices (Maths)",
+									"notePosition": 0,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Matrices (Maths).html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [
+										{
+											"attachmentId": "choqYd9xPVoM",
+											"title": "0bQlGhJO9i1TlgqI6.png",
+											"role": "image",
+											"mime": "image/jpg",
+											"position": 10,
+											"dataFileName": "Matrices (Maths)_0bQlGhJO9i1Tl.jpg"
+										},
+										{
+											"attachmentId": "yn52alDRqtEv",
+											"title": "0mTbT46WLC126N4EW.png",
+											"role": "image",
+											"mime": "image/jpg",
+											"position": 10,
+											"dataFileName": "Matrices (Maths)_0mTbT46WLC126.jpg"
+										}
+									]
+								},
+								{
+									"noteId": "dgEo3GxWNlEv",
+									"notePath": [
+										"root",
+										"Tek8SJWJDL1R",
+										"ZBdfsDOYbj0Q",
+										"dgEo3GxWNlEv"
+									],
+									"isClone": false,
+									"title": "Transposing Matrices (Maths)",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Transposing Matrices (Maths).html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [
+										{
+											"attachmentId": "JGrd6ifA3JGE",
+											"title": "0dXuXVJGkMbPc1MFK.png",
+											"role": "image",
+											"mime": "image/png",
+											"position": 10,
+											"dataFileName": "Transposing Matrices (Maths)_0.png"
+										},
+										{
+											"attachmentId": "DrBqQ8RGIeRV",
+											"title": "0dpOLCCE7RpiblNY6.png",
+											"role": "image",
+											"mime": "image/png",
+											"position": 10,
+											"dataFileName": "1_Transposing Matrices (Maths)_0.png"
+										}
+									]
+								},
+								{
+									"noteId": "uzmsBS0Juq9B",
+									"notePath": [
+										"root",
+										"Tek8SJWJDL1R",
+										"ZBdfsDOYbj0Q",
+										"uzmsBS0Juq9B"
+									],
+									"isClone": false,
+									"title": "Derivitives",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Derivitives.html",
+									"dirFileName": "Derivitives",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "nNiCWcUngciC",
+											"notePath": [
+												"root",
+												"Tek8SJWJDL1R",
+												"ZBdfsDOYbj0Q",
+												"uzmsBS0Juq9B",
+												"nNiCWcUngciC"
+											],
+											"isClone": false,
+											"title": "Power rule",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "Power rule.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										}
+									]
+								}
+							]
+						},
+						{
+							"noteId": "WGq2taUNh9iZ",
+							"notePath": [
+								"root",
+								"Tek8SJWJDL1R",
+								"WGq2taUNh9iZ"
+							],
+							"isClone": false,
+							"title": "neuron",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "neuron.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						}
+					]
+				},
+				{
+					"noteId": "OlCJwmvEEH6D",
+					"notePath": [
+						"root",
+						"OlCJwmvEEH6D"
+					],
+					"isClone": false,
+					"title": "DONE : Cisco OS Course",
+					"notePosition": 270,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "DONE  Cisco OS Course.html",
+					"dirFileName": "DONE  Cisco OS Course",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "oEoAtKQ9E1LG",
+							"notePath": [
+								"root",
+								"OlCJwmvEEH6D",
+								"oEoAtKQ9E1LG"
+							],
+							"isClone": false,
+							"title": "Windows History",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "Windows History.html",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "PhziQV0jP6p9",
+							"notePath": [
+								"root",
+								"OlCJwmvEEH6D",
+								"PhziQV0jP6p9"
+							],
+							"isClone": false,
+							"title": "Windows Arcitecture",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dataFileName": "Windows Arcitecture.html",
+							"dirFileName": "Windows Arcitecture",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [
+								{
+									"attachmentId": "HxiJg3jA6aSt",
+									"title": "image.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "Windows Arcitecture_image.png"
+								},
+								{
+									"attachmentId": "hFrBl5uwHo0G",
+									"title": "image.png",
+									"role": "image",
+									"mime": "image/png",
+									"position": 10,
+									"dataFileName": "1_Windows Arcitecture_image.png"
+								}
+							],
+							"children": [
+								{
+									"noteId": "FwXRKj3JMRsd",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"PhziQV0jP6p9",
+										"FwXRKj3JMRsd"
+									],
+									"isClone": false,
+									"title": "NTFS / Data Streams",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "NTFS  Data Streams.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "UW3sICPlMZ5T",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"PhziQV0jP6p9",
+										"UW3sICPlMZ5T"
+									],
+									"isClone": false,
+									"title": "Windows Booting",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Windows Booting.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [
+										{
+											"attachmentId": "lDdZ9c1BAXJM",
+											"title": "image.png",
+											"role": "image",
+											"mime": "image/jpg",
+											"position": 10,
+											"dataFileName": "Windows Booting_image.png"
+										}
+									]
+								},
+								{
+									"noteId": "GJQNOJ0juc0s",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"PhziQV0jP6p9",
+										"GJQNOJ0juc0s"
+									],
+									"isClone": false,
+									"title": "Windows Startup",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Windows Startup.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "ZRfbFqnxOd63",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"PhziQV0jP6p9",
+										"ZRfbFqnxOd63"
+									],
+									"isClone": false,
+									"title": "Processes, Threads, and Services",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Processes, Threads, and Servic.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "qJ4EAMEJUXLu",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"PhziQV0jP6p9",
+										"qJ4EAMEJUXLu"
+									],
+									"isClone": false,
+									"title": "Memory Allocation and Handles",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Memory Allocation and Handles.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "vLIqose5RO32",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"PhziQV0jP6p9",
+										"vLIqose5RO32"
+									],
+									"isClone": false,
+									"title": "The Windows Registry",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "The Windows Registry.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "70G0ZdMrcN2u",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"PhziQV0jP6p9",
+										"70G0ZdMrcN2u"
+									],
+									"isClone": false,
+									"title": "TODO: Lab",
+									"notePosition": 70,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "TODO Lab.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [
+										{
+											"attachmentId": "uYMV5WUg0cgQ",
+											"title": "1.2.11_Lab_Exploring_Processes_ Threads_Handles_and_Windows_Registry.html",
+											"role": "file",
+											"mime": "text/html",
+											"position": 10,
+											"dataFileName": "TODO Lab_1.2.11_Lab_Exploring_"
+										}
+									]
+								}
+							]
+						},
+						{
+							"noteId": "qT3AnoBPVBPM",
+							"notePath": [
+								"root",
+								"OlCJwmvEEH6D",
+								"qT3AnoBPVBPM"
+							],
+							"isClone": false,
+							"title": "Linux Basics",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dirFileName": "Linux Basics",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "bfNkK3fBsCOq",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"qT3AnoBPVBPM",
+										"bfNkK3fBsCOq"
+									],
+									"isClone": false,
+									"title": "Linux in a SOC",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Linux in a SOC.html",
+									"noImport": false,
+									"attributes": [],
+									"attachments": []
+								},
+								{
+									"noteId": "0zDlM6yMAXbF",
+									"notePath": [
+										"root",
+										"OlCJwmvEEH6D",
+										"qT3AnoBPVBPM",
+										"0zDlM6yMAXbF"
+									],
+									"isClone": false,
+									"title": "Linux Servers and Clients",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dataFileName": "Linux Servers and Clients.html",
 									"noImport": false,
 									"attributes": [],
 									"attachments": []

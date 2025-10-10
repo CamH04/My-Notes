@@ -1,0 +1,47 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>NTFS / Data Streams</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>NTFS / Data Streams</h1>
+
+      <div class="ck-content">
+        <p>NTFS most common file sys :</p>
+        <ul>
+          <li><strong>Partition Boot Sector - </strong>This is the first 16 sectors
+            of the drive. It contains the location of the Master File Table (MFT).
+            The last 16 sectors contain a copy of the boot sector.</li>
+          <li><strong>Master File Table (MFT) -</strong> This table contains the locations
+            of all the files and directories on the partition, including file attributes
+            such as security information and timestamps.</li>
+          <li><strong>System Files -</strong> These are hidden files that store information
+            about other volumes and file attributes.</li>
+          <li><strong>File Area -</strong> The main area of the partition where files
+            and directories are stored.</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>NTFS Data Streams:</p>
+        <ul>
+          <li>NTFS stores files as a series of attributes, like; name of the file /
+            timestamp. Stored as $DATA attribute</li>
+          <li>In NTFS you can add Alternate Data Streams (ADSs) into $DATA
+            <ul>
+              <li>&nbsp;a file with an ADS is identified after the filename and a colon,
+                for example, <strong>Testfile.txt:ADS.</strong> This filename indicates an
+                ADS called ADS is associated with the file called <strong>Testfile.txt.</strong>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
+
+</html>

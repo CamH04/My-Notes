@@ -1,0 +1,38 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Windows Startup</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Windows Startup</h1>
+
+      <div class="ck-content">
+        <p><strong><u>Registry Items</u></strong>
+        </p>
+        <p>two important registry items that are used to automatically start applications
+          and services:</p>
+        <ul>
+          <li><strong>HKEY_LOCAL_MACHINE -</strong> Several aspects of Windows configuration
+            are stored in this key, including information about services that start
+            with each boot.</li>
+          <li><strong>HKEY_CURRENT_USER -</strong> Several aspects related to the logged
+            in user are stored in this key, including information about services that
+            start only when the user logs on to the computer.</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>Different registry entries have different flags which defines how they
+          are started such as:&nbsp;</p>
+        <p>Run, RunOnce, RunServices, RunServicesOnce, and Userinit</p>
+        <p>You can enter registry items manually but using the MSconfig.exe is easier
+          and safer</p>
+      </div>
+    </div>
+  </body>
+
+</html>

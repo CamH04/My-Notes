@@ -1,0 +1,51 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Architecture</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Architecture</h1>
+
+      <div class="ck-content">
+        <p>Architecture:</p>
+        <p>UDP based</p>
+        <p>Request/Response layer: Responsible for sending and receiving REST packets</p>
+        <p>Transactional layer: Handles single message exchanges between
+          <br>endpoints</p>
+        <p>&nbsp;</p>
+        <p>Messages are broken down to these types:</p>
+        <ul>
+          <li>CON (Confirmable)</li>
+          <li>NON (Non Confirmable)</li>
+          <li>ACK (Acknowledgement)</li>
+          <li>RST (Reset)</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>CON:</p>
+        <p>Requires an ACK. If a CON message is sent an ACK must be
+          <br>received within a random time interval between ACK_TIMEOUT and (ACK_TIMEOUT
+          * ACK_RANDOM_FACTOR). If the ACK is not received, the sender transmits
+          the CON message over and over at exponentially increasing intervals until
+          it receives the ACK or a RST. This essentially is the CoAP form of congestion
+          control. There is a maximum number of attempts set by MAX_RETRANSMIT.</p>
+        <p>&nbsp;</p>
+        <p>NON:</p>
+        <p>Requires no ACK : sends packets, forgets</p>
+        <p>&nbsp;</p>
+        <p>ACK:</p>
+        <p>Acknowledges a CON message</p>
+        <p>&nbsp;</p>
+        <p>RST:</p>
+        <p>Indicates that a CON message has been received but the context is
+          <br>missin</p>
+      </div>
+    </div>
+  </body>
+
+</html>
